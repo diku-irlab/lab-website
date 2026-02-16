@@ -13,6 +13,12 @@ brew install ruby
 gem install bundler jekyll
 ```
 
+If you use Windows, you can download Ruby from [https://rubyinstaller.org/](https://rubyinstaller.org/) and then do:
+
+``` bash
+gem install bundler jekyll
+```
+
 Clone this repository, then install the dependencies:
 
 ``` bash
