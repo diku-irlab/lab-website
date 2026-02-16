@@ -1,9 +1,9 @@
 ---
 layout: member
-category: staff
-title: Researcher Name
+category: student
+title: PhD Student 2
 image: researcher.png
-role: Lab Director
+role: PhD Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
