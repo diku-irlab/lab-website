@@ -6,12 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Research Lab
+title: Inference and Retrieval Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Inference and Retrieval Lab at the Department of Computer Science, University of Copenhagen is a team of faculty, postdocs, research scientists, programmers, and students 
+  who work together on models and algorithms that allow computers to process and make inferences about human language text.
+  
+  Founded in 2012, our work is in the areas of information retrieval, data mining and applied machine learning (mainly for web data), 
+  with applications to search engines, recommender systems, plagiarism detection, opinion/sentiment mining, and text analytics, and with particular emphasis to large-scale web data.
+
 baseurl: ""
 url: ""
 
