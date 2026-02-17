@@ -11,7 +11,8 @@ permalink: /publications/
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
-    {% for publi in site.data.publications %}
+    {% assign publications = site.data.publications | sort: 'issued.date-parts' | reverse %}
+    {% for publi in publications %}
         <div class="panel-heading">
             <a data-toggle="collapse" data-parent="#accordion"
                href="#collapse{{forloop.index}}"
@@ -19,7 +20,8 @@ permalink: /publications/
             <!-- authors -->
             {% assign authors = "" | split:"/" %}
             {% for author in publi.author %}
-                {% assign authors = authors | push: author.family %}
+                {% assign fullname = author.given | append: ' ' | append: author.family %}
+                {% assign authors = authors | push: fullname %}
             {% endfor %}
             {{ authors | array_to_sentence_string }},
 
@@ -34,7 +36,12 @@ permalink: /publications/
 
             <!-- DOI -->
             {% if publi.DOI %}
-                <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+            <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+            {% endif %}
+
+            <!-- URL -->
+            {% if publi.URL %}
+                <a href="{{publi.URL}}">{{publi.URL}}</a>
             {% endif %}
             </a>
         </div>

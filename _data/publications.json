@@ -1,38 +1,1822 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"id": "AWGWNUWP",
+		"type": "paper-conference",
+		"container-title": "International Conference on Educational Data Mining",
+		"title": "Sequence Modelling For Analysing Student Interaction with Educational Systems",
+		"URL": "http://arxiv.org/abs/1708.04164",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Hansen",
+				"given": "Christian"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Hansen",
+				"given": "Casper"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Hjuler",
+				"given": "Niklas"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "VXGDLDUS",
+		"type": "paper-conference",
+		"container-title": "European Conference on e-Learning",
+		"page": "18-24",
+		"title": "DABAI: A data driven project for e-Learning in Denmark",
+		"author": [
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Hjuler",
+				"given": "Niklas"
+			},
+			{
+				"family": "Lorenzen",
+				"given": "Stephan"
+			},
+			{
+				"family": "Pham",
+				"given": "Ninh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "8T7QU2BU",
+		"type": "article-journal",
+		"container-title": "CLEF 2018 Working Notes",
+		"title": "The Copenhagen team participation in the factuality task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Dongsheng"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "3GLYC4IN",
+		"type": "paper-conference",
+		"container-title": "WWW International Workshop of Deep Learning for Graphs and Structured Data Embedding",
+		"title": "Contextual Compositionality Detection with External Knowledge Bases and Word Embeddings",
+		"URL": "https://arxiv.org/pdf/1903.08389",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Dongsheng"
+			},
+			{
+				"family": "Li",
+				"given": "Quichi"
+			},
+			{
+				"family": "Lima",
+				"given": "Lucas Chaves"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "ICVZ9WQN",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the ECIR 2012 Workshop on Task-Based and Aggregated Search (TBAS2012)",
+		"page": "36",
+		"title": "Zebra: Searching for rare diseases a case of task-based search in the medical domain",
+		"author": [
+			{
+				"family": "Dragusin",
+				"given": "Radu"
+			},
+			{
+				"family": "Petcu",
+				"given": "Paula"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Winther",
+				"given": "Ole"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "4L7KDXTS",
+		"type": "article-journal",
+		"container-title": "CoRR",
+		"title": "Deep Learning Relevance: Creating Relevant Information (as Opposed to Retrieving it)",
+		"URL": "http://arxiv.org/abs/1606.07660",
+		"volume": "abs/1606.07660",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "5SCV6NJV",
+		"type": "paper-conference",
+		"container-title": "7th International Conference on Learning Representations (ICLR)",
+		"title": "Neural Speed Reading with Structural-Jump-LSTM",
+		"URL": "https://arxiv.org/pdf/1904.00761.pdf",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "BG42MGWY",
+		"type": "paper-conference",
+		"container-title": "42nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"title": "Unsupervised Neural Generative Semantic Hashing",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "YTNMI44H",
+		"type": "paper-conference",
+		"container-title": "42nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"title": "Contextually Propagated Term Weights for Document Representation",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "8IM4V8DI",
+		"type": "paper-conference",
+		"container-title": "WWW International Workshop on Misinformation, Computational Fact-Checking and Credible Web",
+		"title": "Neural Check-Worthiness Ranking with Weak Supervision: Finding Sentences for Fact-Checking",
+		"URL": "https://arxiv.org/pdf/1903.08404.pdf",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "PZNG59A7",
+		"type": "article-journal",
+		"container-title": "Data and Information Management",
+		"issue": "ahead-of-print",
+		"publisher": "Sciendo",
+		"title": "To Phrase or Not to Phrase–Impact of User versus System Term Dependence upon Retrieval",
+		"URL": "https://content.sciendo.com/view/journals/dim/2/1/article-p1.xml",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Ingwersen",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Y23PYJD8",
+		"type": "article-journal",
+		"container-title": "Expert Systems with Applications",
+		"title": "Predicting Distresses using Deep Learning of Text Segments in Annual Reports",
+		"URL": "https://arxiv.org/pdf/1811.05270",
+		"author": [
+			{
+				"family": "Matin",
+				"given": "Rastin"
+			},
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Mølgaard",
+				"given": "Pia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "9ZY8IMH6",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 4th Information Interaction in Context Symposium",
+		"page": "174-183",
+		"title": "Preliminary experiments using subjective logic for the polyrepresentation of information needs",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Ingwersen",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "VTKJA7MX",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 35th international ACM SIGIR conference on Research and development in information retrieval",
+		"page": "1131-1132",
+		"title": "Preliminary study of technical terminology for the retrieval of scientific book metadata records",
+		"author": [
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Frommholz",
+				"given": "Ingo"
+			},
+			{
+				"family": "Schütze",
+				"given": "Hinrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "I78V9EKJ",
+		"type": "article-journal",
+		"container-title": "CLEF 2018 Working Notes",
+		"title": "The Copenhagen team participation in the check-worthiness task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Simonsen",
+				"given": "J."
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "FQQGZAJA",
+		"type": "article-journal",
+		"abstract": "Background: Understanding the influence of media coverage upon vaccination activity is valuable when designing outreach campaigns to increase vaccination uptake. Objective: To study the relationship between media coverage and vaccination activity of the measles-mumps-rubella (MMR) vaccine in Denmark. Methods: We retrieved data on media coverage (1622 articles), vaccination activity (2 million individual registrations), and incidence of measles for the period 1997-2014. All 1622 news media articles were annotated as being provaccination, antivaccination, or neutral. Seasonal and serial dependencies were removed from the data, after which cross-correlations were analyzed to determine the relationship between the different signals. Results: Most (65%) of the anti-vaccination media coverage was observed in the period 1997-2004, immediately before and following the 1998 publication of the falsely claimed link between autism and the MMR vaccine. There was a statistically significant positive correlation between the first MMR vaccine (targeting children aged 15 months) and provaccination media coverage (r=.49, P=.004) in the period 1998-2004. In this period the first MMR vaccine and neutral media coverage also correlated (r=.45, P=.003). However, looking at the whole period, 1997-2014, we found no significant correlations between vaccination activity and media coverage. Conclusions: Following the falsely claimed link between autism and the MMR vaccine, provaccination and neutral media coverage correlated with vaccination activity. This correlation was only observed during a period of controversy which indicates that the population is more susceptible to media influence when presented with diverging opinions. Additionally, our findings suggest that the influence of media is stronger on parents when they are deciding on the first vaccine of their children, than on the subsequent vaccine because correlations were only found for the first MMR vaccine.",
+		"container-title": "JMIR Public Health and Surveillance",
+		"DOI": "10.2196/publichealth.9544",
+		"ISSN": "23692960",
+		"issue": "1",
+		"publisher": "JMIR Publications Inc.",
+		"title": "Relationship between media coverage and Measles-Mumps-Rubella (MMR) vaccination uptake in Denmark: Retrospective study",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			},
+			{
+				"family": "Mølbak",
+				"given": "Kåre"
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar Johansson"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
 					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "E8D6SQYP",
+		"type": "article-journal",
+		"container-title": "Proceedings of the Annual ACM Symposium on Principles of Distributed Computing",
+		"DOI": "10.1145/2933057.2933060",
+		"note": "ISBN: 9781450339643",
+		"page": "39-41",
+		"publisher": "Association for Computing Machinery",
+		"title": "Brief announcement: Labeling schemes for power-law graphs",
+		"volume": "25-28-July-2016",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Rotbart",
+				"given": "Noy"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Wulff-Nilsen",
+				"given": "Christian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "7RZGH55C",
+		"type": "article-journal",
+		"abstract": "Online ranker evaluation is a key challenge in information retrieval. An important task in the online evaluation of rankers is using implicit user feedback for inferring preferences between rankers. Interleaving methods have been found to be efficient and sensitive, i.e. they can quickly detect even small differences in quality. It has recently been shown that multileaving methods exhibit similar sensitivity but can be more efficient than interleaving methods. This paper presents empirical results demonstrating that existing multileaving methods either do not scale well with the number of rankers, or, more problematically, can produce results which substantially differ from evaluation measures like NDCG. The latter problem is caused by the fact that they do not correctly account for the similarities that can occur between rankers being multileaved. We propose a new multileaving method for handling this problem and demonstrate that it substantially outperforms existing methods, in some cases reducing errors by as much as 50%.",
+		"container-title": "SIGIR 2016 - Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"DOI": "10.1145/2911451.2914706",
+		"note": "ISBN: 9781450342902",
+		"page": "745-748",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "An improved multileaving algorithm for online ranker evaluation",
+		"author": [
+			{
+				"family": "Brost",
+				"given": "Brian"
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Seldin",
+				"given": "Yevgeny"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "R76YTHEW",
+		"type": "article-journal",
+		"abstract": "Divergence From Randomness (DFR) ranking models assume that informative terms are distributed in a corpus differently than non-informative terms. Different statistical models (e.g. Poisson, geometric) are used to model the distribution of noninformative terms, producing different DFR models. An informative termisthen detected by measuring the divergence of its distribution from the distribution of non-informative terms. However, thereislittle empirical evidence that the distributions of non-informative terms used in DFR actually fit current datasets. Practically this risks providing a poor separation between informative and non-informative terms, thus compromising the discriminative power of the ranking model. We present a novel extension to DFR, which first detects the best-fitting distribution of non-informative terms in a collection, and then adapts the ranking computation to this best-fitting distribution. We call this model Adaptive Distributional Ranking (ADR) because it adapts the ranking to the statistics of the specific dataset being processed each time. Experiments on TREC data show ADR to outperform DFR models (and their extensions) and be comparable in performance to a query likelihood language model (LM).",
+		"container-title": "International Conference on Information and Knowledge Management, Proceedings",
+		"DOI": "10.1145/2983323.2983895",
+		"note": "ISBN: 9781450340731",
+		"page": "2005-2008",
+		"publisher": "Association for Computing Machinery",
+		"title": "Adaptive distributional extensions to DFR ranking",
+		"volume": "24-28-October-2016",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Järvelin",
+				"given": "Kalervo"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "NTRVVL93",
+		"type": "article-journal",
+		"abstract": "We present a method that uses ensemble learning to combine clinical and web-mined time-series data in order to predict future vaccination uptake. The clinical data is official vaccination registries, and the web data is query frequencies collected from Google Trends. Experiments with official vaccine records show that our method predicts vaccination uptake effectively (4.7 Root Mean Squared Error). Whereas performance is best when combining clinical and web data, using solely web data yields comparative performance. To our knowledge, this is the first study to predict vaccination uptake using web data (with and without clinical data).",
+		"container-title": "International Conference on Information and Knowledge Management, Proceedings",
+		"DOI": "10.1145/2983323.2983882",
+		"note": "ISBN: 9781450340731",
+		"page": "1953-1956",
+		"publisher": "Association for Computing Machinery",
+		"title": "Ensemble learned vaccination uptake prediction using Web search queries",
+		"volume": "24-28-October-2016",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Mølbak",
+				"given": "Kåre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "J2UFR4M4",
+		"type": "article-journal",
+		"abstract": "Several properties of information retrieval (IR) data, such as query frequency or document length, are widely considered to be approximately distributed as a power law. This common assumption aims to focus on specific characteristics of the empirical probability distribution of such data (e.g., its scale-free nature or its long/fat tail). This assumption, however, may not be always true. Motivated by recent work in the statistical treatment of power law claims, we investigate two research questions: (i) To what extent do power law approximations hold for term frequency, document length, query frequency, query length, citation frequency, and syntactic unigram frequency? And (ii) what is the computational cost of replacing ad hoc power law approximations with more accurate distribution fitting? We study 23 TREC and 5 non-TREC datasets and compare the fit of power laws to 15 other standard probability distributions. We find that query frequency and 5 out of 24 term frequency distributions are best approximated by a power law. All remaining properties are better approximated by the Inverse Gaussian, Generalized Extreme Value, Negative Binomial, or Yule distribution. We also find the overhead of replacing power law approximations by more informed distribution fitting to be negligible, with potential gains to IR tasks like index compression or test collection generation for IR evaluation.",
+		"container-title": "ACM Transactions on Information Systems",
+		"DOI": "10.1145/2816815",
+		"ISSN": "15582868",
+		"issue": "2",
+		"publisher": "Association for Computing Machinery",
+		"title": "Power law distributions in information retrieval",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
 					2
+				]
+			]
+		}
+	},
+	{
+		"id": "AAGMS45J",
+		"type": "article-journal",
+		"abstract": "An adjacency labeling scheme labels the n nodes of a graph with bit strings in a way that allows, given the labels of two nodes, to determine adjacency based only on those bit strings. Though many graph families have been meticulously studied for this problem, a non-trivial labeling scheme for the important family of power-law graphs has yet to be obtained. This family is particularly useful for social and web networks as their underlying graphs are typically modelled as power-law graphs. Using simple strategies and a careful selection of a parameter, we show upper bounds for such labeling schemes of O( α√ p n) for power law graphs with coefficient α, as well as nearly matching lower bounds. We also show two relaxations that allow for a label of logarithmic size, and extend the upper-bound technique to produce an improved distance labeling scheme for power-law graphs.",
+		"container-title": "Leibniz International Proceedings in Informatics, LIPIcs",
+		"DOI": "10.4230/LIPIcs.ICALP.2016.133",
+		"ISSN": "18688969",
+		"note": "ISBN: 9783959770132",
+		"publisher": "Schloss Dagstuhl- Leibniz-Zentrum fur Informatik GmbH, Dagstuhl Publishing",
+		"title": "Near optimal adjacency labeling schemes for power-law graphs",
+		"volume": "55",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Rotbart",
+				"given": "Noy"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Wulff-Nilsen",
+				"given": "Christian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "V5NI7PYZ",
+		"type": "article-journal",
+		"abstract": "Influenza-like illness (ILI) estimation from web search data is an importantweb analytics task. The basic idea is to use the frequencies of queries in web search logs that are correlated with past ILI activity as features when estimating current ILI activity. It has been noted that since influenza is seasonal, this approach can lead to spurious correlations with features/queries that also exhibit seasonality, but have no relationship with ILI. Spurious correlations can, in turn, degrade performance. To address this issue, we propose modeling the seasonal variation in ILI activity and selecting queries that are correlated with the residual of the seasonal model and the observed ILI signal. Experimental results show that re-ranking queries obtained by Google Correlate based on their correlation with the residual strongly favours ILI-related queries.",
+		"container-title": "SIGIR 2017 - Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"DOI": "10.1145/3077136.3080760",
+		"note": "ISBN: 9781450350228",
+		"page": "1197-1200",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "Seasonal web search query selection for influenza-like illness (ILI) Estimation",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			},
+			{
+				"family": "Mølbak",
+				"given": "Kare"
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "IKNLGM6U",
+		"type": "article-journal",
+		"abstract": "Document coherence describes how much sense text makes in terms of its logical organisation and discourse flow. Even though coherence is a relatively difficult notion to quantify precisely, it can be approximated automatically. This type of coherence modelling is not only interesting in itself, but also useful for a number of other text processing tasks, including Information Retrieval (IR), where adjusting the ranking of documents according to both their relevance and their coherence has been shown to increase retrieval effectiveness [34, 37]. The state of the art in unsupervised coherence modelling represents documents as bipartite graphs of sentences and discourse entities, and then projects these bipartite graphs into one-mode undirected graphs. However, one-mode projections may incur significant loss of the information present in the original bipartite structure. To address this we present three novel graph metrics that compute document coherence on the original bipartite graph of sentences and entities. Evaluation on standard settings shows that: (i) one of our coherence metrics beats the state of the art in terms of coherence accuracy; and (ii) all three of our coherence metrics improve retrieval effectiveness because, as closer analysis reveals, they capture aspects of document quality that go undetected by both keyword-based standard ranking and by spam filtering. This work contributes document coherence metrics that are theoretically principled, parameter-free, and useful to IR.",
+		"container-title": "ICTIR 2016 - Proceedings of the 2016 ACM International Conference on the Theory of Information Retrieval",
+		"DOI": "10.1145/2970398.2970413",
+		"note": "ISBN: 9781450344975",
+		"page": "11-20",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "Exploiting the bipartite structure of entity grids for document coherence and retrieval",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Tarissan",
+				"given": "Fabien"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "ZQIAKANQ",
+		"type": "article-journal",
+		"abstract": "Modelling term dependence in IR aims to identify co-occurring terms that are too heavily dependent on each other to be treated as a bag of words, and to adapt the indexing and ranking accordingly. Dependent terms are predominantly identified using lexical frequency statistics, assuming that (a) if terms co-occur often enough in some corpus, they are semantically dependent; (b) the more often they co-occur, the more semantically dependent they are. This assumption is not always correct: the frequency of co-occurring terms can be separate from the strength of their semantic dependence. E.g. red tape might be overall less frequent than tape measure in some corpus, but this does not mean that red+tape are less dependent than tape+measure. This is especially the case for non-compositional phrases, i.e. phrases whose meaning cannot be composed from the individual meanings of their terms (such as the phrase red tape meaning bureaucracy). Motivated by this lack of distinction between the frequency and strength of term dependence in IR, we present a principled approach for handling term dependence in queries, using both lexical frequency and semantic evidence. We focus on non-compositional phrases, extending a recent unsupervised model for their detection [21] to IR. Our approach, integrated into ranking using Markov Random Fields [31], yields effectiveness gains over competitive TREC baselines, showing that there is still room for improvement in the very well-studied area of term dependence in IR.",
+		"container-title": "SIGIR 2015 - Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"DOI": "10.1145/2766462.2767717",
+		"note": "ISBN: 9781450336215",
+		"page": "595-604",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "Non-compositional term dependence for information retrieval",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "HIFUSMIR",
+		"type": "article-journal",
+		"abstract": "Consumption of antimicrobial drugs, such as antibiotics, is linked with antimicrobial resistance. Surveillance of antimicrobial drug consumption is therefore an important element in dealing with antimicrobial resistance. Many countries lack sufficient surveillance systems. Usage of web mined data therefore has the potential to improve current surveillance methods. To this end, we study how well antimicrobial drug consumption can be predicted based on web search queries, compared to historical purchase data of antimicrobial drugs. We present two prediction models (linear Elastic Net, and nonlinear Gaussian Processes), which we train and evaluate on almost 6 years of weekly antimicrobial drug consumption data from Denmark and web search data from Google Health Trends. We present a novel method of selecting web search queries by considering diseases and drugs linked to antimicrobials, as well as professional and layman descriptions of antimicrobial drugs, all of which we mine from the open web. We find that predictions based on web search data are marginally more erroneous but overall on a par with predictions based on purchases of antimicrobial drugs. This marginal difference corresponds to < 1% point mean absolute error in weekly usage. Best predictions are reported when combining both web search and purchase data. This study contributes a novel alternative solution to the real-life problem of predicting (and hence monitoring) antimicrobial drug consumption, which is particularly valuable in countries/states lacking centralised and timely surveillance systems.",
+		"container-title": "ACM International Conference Proceeding Series",
+		"DOI": "10.1145/3194658.3194667",
+		"note": "ISBN: 9781450364935",
+		"page": "133-142",
+		"publisher": "Association for Computing Machinery",
+		"title": "Predicting antimicrobial drug consumption using web search data",
+		"volume": "2018-April",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Mølbak",
+				"given": "Kåre"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "53GU97D6",
+		"type": "article-journal",
+		"abstract": "Estimating vaccination uptake is an integral part of ensuring public health. It was recently shown that vaccination uptake can be estimated automatically from web data, instead of slowly collected clinical records or population surveys [2]. All prior work in this area assumes that features of vaccination uptake collected from the web are temporally regular. We present the first ever method to remove this assumption from vaccination uptake estimation: our method dynamically adapts to temporal fluctuations in time series web data used to estimate vaccination uptake. We show our method to outperform the state of the art compared to competitive baselines that use not only web data but also curated clinical data. This performance improvement is more pronounced for vaccines whose uptake has been irregular due to negative media attention (HPV-1 and HPV-2), problems in vaccine supply (DiTeKiPol), and targeted at children of 12 years old (whose vaccination is more irregular compared to younger children).",
+		"container-title": "26th International World Wide Web Conference 2017, WWW 2017 Companion",
+		"DOI": "10.1145/3041021.3054251",
+		"note": "ISBN: 9781450349147",
+		"page": "773-774",
+		"publisher": "International World Wide Web Conferences Steering Committee",
+		"title": "Time-series adaptive estimation of vaccination uptake using web search queries",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Mølbak",
+				"given": "Kåre"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "K5E9VYY4",
+		"type": "article-journal",
+		"abstract": "Users may strive to formulate an adequate textual query for their information need. Search engines assist the users by presenting query suggestions. To preserve the original search intent, suggestions should be context-aware and account for the previous queries issued by the user. Achieving context awareness is challenging due to data sparsity. We present a novel hierarchical recurrent encoder-decoder architecture that makes possible to account for sequences of previous queries of arbitrary lengths. As a result, our suggestions are sensitive to the order of queries in the context while avoiding data sparsity. Additionally, our model can suggest for rare, or long-tail, queries. The produced suggestions are synthetic and are sampled one word at a time, using computationally cheap decoding techniques. This is in contrast to current synthetic suggestion models relying upon machine learning pipelines and hand-engineered feature sets. Results show that our model outperforms existing context-aware approaches in a next query prediction setting. In addition to query suggestion, our architecture is general enough to be used in a variety of other applications.",
+		"container-title": "International Conference on Information and Knowledge Management, Proceedings",
+		"DOI": "10.1145/2806416.2806493",
+		"note": "ISBN: 9781450337946",
+		"page": "553-562",
+		"publisher": "Association for Computing Machinery",
+		"title": "A hierarchical recurrent encoder-decoder for generative context-aware query suggestion",
+		"volume": "19-23-Oct-2015",
+		"author": [
+			{
+				"family": "Sordoni",
+				"given": "Alessandro"
+			},
+			{
+				"family": "Bengio",
+				"given": "Yoshua"
+			},
+			{
+				"family": "Vahabi",
+				"given": "Hossein"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob G."
+			},
+			{
+				"family": "Nie",
+				"given": "Jian Yun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "6WZSKPFP",
+		"type": "article-journal",
+		"abstract": "Recent discussions on alternative facts, fake news, and post truth politics have motivated research on creating technologies that allow people not only to access information, but also to assess the credibility of the information presented to them by information retrieval systems. Whereas technology is in place for filtering information according to relevance and/or credibility [15], no single measure currently exists for evaluating the accuracy or precision (and more generally effectiveness) of both the relevance and the credibility of retrieved results. One obvious way of doing so is to measure relevance and credibility effectiveness separately, and then consolidate the two measures into one. There at least two problems with such an approach: (I) it is not certain that the same criteria are applied to the evaluation of both relevance and credibility (and applying different criteria introduces bias to the evaluation); (II) many more and richer measures exist for assessing relevance effectiveness than for assessing credibility effectiveness (hence risking further bias). Motivated by the above, we present two novel types of evaluation measures that are designed to measure the effectiveness of both relevance and credibility in ranked lists of retrieval results. Experimental evaluation on a small human-annotated dataset (that we make freely available to the research community) shows that our measures are expressive and intuitive in their interpretation.",
+		"container-title": "ICTIR 2017 - Proceedings of the 2017 ACM SIGIR International Conference on the Theory of Information Retrieval",
+		"DOI": "10.1145/3121050.3121072",
+		"note": "ISBN: 9781450344906",
+		"page": "91-98",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "Evaluation measures for relevance and credibility in ranked lists",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "GRKJGANK",
+		"type": "article-journal",
+		"abstract": "Much of the information processed by Information Retrieval (IR) systems is unreliable, biased, and generally untrustworthy [15, 45, 48]. Yet, factuality & objectivity detection is not a standard component of IR systems, even though it has been possible in Natural Language Processing (NLP) in the last decade. Motivated by this, we ask if and how factuality & objectivity detection may benefit IR. We answer this in two parts. First, we use state-of-the-art NLP to compute the probability of document factuality & objectivity in two TREC collections, and analyse its relation to document relevance. We find that factuality is strongly and positively correlated to document relevance, but objectivity is not. Second, we study the impact of factuality & objectivity to retrieval effectiveness by treating them as query independent features that we combine with a competitive language modelling baseline. Experiments with 450 TREC queries show that factuality improves precision by more than 10% over strong baselines, especially for the type of uncurated data typically used in web search; objectivity gives mixed results. An overall clear trend is that document factuality & objectivity is much more beneficial to IR when searching uncurated (e.g. web) documents vs. curated (e.g. state documentation and newswire articles). To our knowledge, this is the first study of factuality & objectivity for back-end IR, contributing novel findings about the relation between relevance and factuality/objectivity, and statistically significant gains to retrieval effectiveness in the competitive web search task.",
+		"container-title": "Proceedings - 3rd IEEE/ACM International Conference on Big Data Computing, Applications and Technologies, BDCAT 2016",
+		"DOI": "10.1145/3006299.3006315",
+		"note": "ISBN: 9781450346177",
+		"page": "107-117",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "A study of factuality, objectivity and relevance: Three desiderata in large-scale information retrieval?",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Lu",
+				"given": "Wei"
+			},
+			{
+				"family": "Huang",
+				"given": "Yong"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "8HQFDLMH",
+		"type": "article-journal",
+		"abstract": "Caching posting lists can reduce the amount of disk I/O required to evaluate a query. Current methods use optimisation procedures for maximising the cache hit ratio. A recent method selects posting lists for static caching in a greedy manner and obtains higher hit rates than standard cache eviction policies such as LRU and LFU. However, a greedy method does not formally guarantee an optimal solution. We investigate whether the use of methods guaranteed, in theory, to find an approximately optimal solution would yield higher hit rates. Thus, we cast the selection of posting lists for caching as an integer linear programming problem and perform a series of experiments using heuristics from combinatorial optimisation (CCO) to find optimal solutions. Using simulated query logs we find that CCO yields comparable results to a greedy baseline using cache sizes between 200 and 1000 MB, with modest improvements for queries of length two to three.",
+		"container-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+		"DOI": "10.1007/978-3-319-28940-3_36",
+		"ISSN": "16113349",
+		"note": "ISBN: 9783319289397",
+		"page": "420-425",
+		"publisher": "Springer Verlag",
+		"title": "The impact of using combinatorial optimisation for static caching of posting lists",
+		"volume": "9460",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "6LV8ZFE9",
+		"type": "article-journal",
+		"abstract": "Background: The web has become a primary information resource about illnesses and treatments for both medical and non-medical users. Standard web search is by far the most common interface to this information. It is therefore of interest to find out how well web search engines work for diagnostic queries and what factors contribute to successes and failures. Among diseases, rare (or orphan) diseases represent an especially challenging and thus interesting class to diagnose as each is rare, diverse in symptoms and usually has scattered resources associated with it. Methods: We design an evaluation approach for web search engines for rare disease diagnosis which includes 56 real life diagnostic cases, performance measures, information resources and guidelines for customising Google Search to this task. In addition, we introduce FindZebra, a specialized (vertical) rare disease search engine. FindZebra is powered by open source search technology and uses curated freely available online medical information. Results: FindZebra outperforms Google Search in both default set-up and customised to the resources used by FindZebra. We extend FindZebra with specialized functionalities exploiting medical ontological information and UMLS medical concepts to demonstrate different ways of displaying the retrieved results to medical experts. Conclusions: Our results indicate that a specialized search engine can improve the diagnostic quality without compromising the ease of use of the currently widely popular standard web search. The proposed evaluation approach can be valuable for future development and benchmarking. The FindZebra search engine is available at http://www.findzebra.com/. © 2013 Elsevier Ireland Ltd.",
+		"container-title": "International Journal of Medical Informatics",
+		"DOI": "10.1016/j.ijmedinf.2013.01.005",
+		"ISSN": "13865056",
+		"issue": "6",
+		"page": "528-538",
+		"PMID": "23462700",
+		"title": "FindZebra: A search engine for rare diseases",
+		"volume": "82",
+		"author": [
+			{
+				"family": "Dragusin",
+				"given": "Radu"
+			},
+			{
+				"family": "Petcu",
+				"given": "Paula"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Jørgensen",
+				"given": "Henrik L."
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Hansen",
+				"given": "Lars Kai"
+			},
+			{
+				"family": "Ingwersen",
+				"given": "Peter"
+			},
+			{
+				"family": "Winther",
+				"given": "Ole"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "KV5SNF72",
+		"type": "article-journal",
+		"abstract": "Typically, every part in most coherent text has some plausible reason for its presence, some function that it performs to the overall semantics of the text. Rhetorical relations, e.g. contrast, cause, explanation, describe how the parts of a text are linked to each other. Knowledge about this so-called discourse structure has been applied successfully to several natural language processing tasks. This work studies the use of rhetorical relations for Information Retrieval (IR): Is there a correlation between certain rhetorical relations and retrieval performance? Can knowledge about a document's rhetorical relations be useful to IR? We present a language model modification that considers rhetorical relations when estimating the relevance of a document to a query. Empirical evaluation of different versions of our model on TREC settings shows that certain rhetorical relations can benefit retrieval effectiveness notably (>10% in mean average precision over a state-of-the-art baseline). © 2012 ACM.",
+		"container-title": "SIGIR'12 - Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"DOI": "10.1145/2348283.2348407",
+		"note": "ISBN: 9781450316583",
+		"page": "931-940",
+		"title": "Rhetorical relations for information retrieval",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Lu",
+				"given": "Wei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "RT6YBKAP",
+		"type": "article-journal",
+		"abstract": "Compositionality in language refers to how much the meaning of some phrase can be decomposed into the meaning of its constituents and the way these constituents are combined. Based on the premise that substitution by synonyms is meaning-preserving, compositionality can be approximated as the semantic similarity between a phrase and a version of that phrase where words have been replaced by their synonyms. Different ways of representing such phrases exist (e.g., vectors (Kiela and Clark, 2013) or language models (Lioma, Simonsen, Larsen, and Hansen, 2015)), and the choice of representation affects the measurement of semantic similarity. We propose a new compositionality detection method that represents phrases as ranked lists of term weights. Our method approximates the semantic similarity between two ranked list representations using a range of well-known distance and correlation metrics. In contrast to most state-of-the-art approaches in compositionality detection, our method is completely unsupervised. Experiments with a publicly available dataset of 1048 human-annotated phrases shows that, compared to strong supervised baselines, our approach provides superior measurement of compositionality using any of the distance and correlation metrics considered.",
+		"container-title": "Cognitive Systems Research",
+		"DOI": "10.1016/j.cogsys.2017.03.001",
+		"ISSN": "13890417",
+		"page": "40-49",
+		"publisher": "Elsevier B.V.",
+		"title": "A study of metrics of distance and correlation between ranked lists for compositionality detection",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "4CM9JJST",
+		"type": "article-journal",
+		"abstract": "Online ranker evaluation focuses on the challenge of efficiently determining, from implicit user feedback, which ranker out of a finite set of rankers is the best. It can be modeled by dueling bandits, a mathematical model for online learning under limited feedback from pairwise comparisons. Comparisons of pairs of rankers is performed by interleaving their result sets and examining which documents users click on. The dueling bandits model addresses the key issue of which pair of rankers to compare at each iteration. Methods for simultaneously comparing more than two rankers have recently been developed. However, the question of which rankers to compare at each iteration was left open. We address this question by proposing a generalization of the dueling bandits model that uses simultaneous comparisons of an unrestricted number of rankers. We evaluate our algorithm on standard large-scale online ranker evaluation datasets. Our experimentals show that the algorithm yields orders of magnitude gains in performance compared to state-of-the-art dueling bandit algorithms.",
+		"container-title": "International Conference on Information and Knowledge Management, Proceedings",
+		"DOI": "10.1145/2983323.2983659",
+		"note": "ISBN: 9781450340731",
+		"page": "2161-2166",
+		"publisher": "Association for Computing Machinery",
+		"title": "Multi-dueling bandits and their application to online ranker evaluation",
+		"volume": "24-28-October-2016",
+		"author": [
+			{
+				"family": "Brost",
+				"given": "Brian"
+			},
+			{
+				"family": "Seldin",
+				"given": "Yevgeny"
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "XWK7SGU7",
+		"type": "article-journal",
+		"abstract": "We investigate the relations between user perceptions of work task complexity, topic specificity, and usefulness of retrieved results. 23 academic researchers submitted detailed descriptions of 65 real-life work tasks in the physics domain, and assessed documents retrieved from an integrated collection consisting of full text research articles in PDF, abstracts, and bibliographic records [6]. Bibliographic records were found to be more precise than full text PDFs, regardless of task complexity and topic specificity. PDFs were found to be more useful. Overall, for higher task complexity and topic specificity bibliographic records demonstrated much higher precision than did PDFs on a four-graded usefulness scale. Copyright © 2012 ACM.",
+		"container-title": "IIiX 2012 - Proceedings 4th Information Interaction in Context Symposium: Behaviors, Interactions, Interfaces, Systems",
+		"DOI": "10.1145/2362724.2362780",
+		"note": "ISBN: 9781450312820",
+		"page": "302-305",
+		"title": "An exploratory study into perceived task complexity, topic specificity and usefulness for integrated search",
+		"author": [
+			{
+				"family": "Ingwersen",
+				"given": "Peter"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Wang",
+				"given": "Peiling"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "D9SMNAJR",
+		"type": "article-journal",
+		"abstract": "We present two novel models of document coherence and their application to information retrieval (IR). Both models approximate document coherence using discourse entities, e.g. the subject or object of a sentence. Our first model views text as a Markov process generating sequences of discourse entities (entity n-grams); we use the entropy of these entity n-grams to approximate the rate at which new information appears in text, reasoning that as more new words appear, the topic increasingly drifts and text coherence decreases. Our second model extends the work of Guinaudeau & Strube [28] that represents text as a graph of discourse entities, linked by different relations, such as their distance or adjacency in text. We use several graph topology metrics to approximate different aspects of the discourse ow that can indicate coherence, such as the average clustering or be-tweenness of discourse entities in text. Experiments with several instantiations of these models show that: (i) our models perform on a par with two other well-known models of text coherence even without any parameter tuning, and (ii) reranking retrieval results according to their coherence scores gives notable performance gains, confirming a relation between document coherence and relevance. This work contributes two novel models of document coherence, the application of which to IR complements recent work in the integration of document cohesiveness or comprehensibility to ranking [5, 56].",
+		"container-title": "ICTIR 2015 - Proceedings of the 2015 ACM SIGIR International Conference on the Theory of Information Retrieval",
+		"DOI": "10.1145/2808194.2809458",
+		"note": "ISBN: 9781450338332",
+		"page": "191-200",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "Entropy and graph based modelling of document coherence using discourse entities: An application to IR",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "EF8M9FJS",
+		"type": "article-journal",
+		"abstract": "In our recent paper, we study web search as an aid in the process of diagnosing rare diseases. To answer the question of how well Google Search and PubMed perform, we created an evaluation framework with 56 diagnostic cases and made our own specialized search engine, FindZebra (findzebra.com). FindZebra uses a set of publicly available curated sources on rare diseases and an open-source information retrieval system, Indri. Our evaluation and the feedback received after the publication of our paper both show that FindZebra outperforms Google Search and PubMed. In this paper, we summarize the original findings and the response to FindZebra, discuss why Google Search is not designed for specialized tasks and outline some of the current trends in using web resources and social media for medical diagnosis.",
+		"container-title": "Rare Diseases",
+		"DOI": "10.4161/rdis.25001",
+		"issue": "1",
+		"page": "e25001",
+		"publisher": "Informa UK Limited",
+		"title": "Specialized tools are needed when searching the web for rare disease diagnoses",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Dragusin",
+				"given": "Radu"
+			},
+			{
+				"family": "Petcu",
+				"given": "Paula"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Jørgensen",
+				"given": "Henrik L."
+			},
+			{
+				"family": "Cox",
+				"given": "Ingemar J."
+			},
+			{
+				"family": "Hansen",
+				"given": "Lars Kai"
+			},
+			{
+				"family": "Ingwersen",
+				"given": "Peter"
+			},
+			{
+				"family": "Winther",
+				"given": "Ole"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "4DGQGNX3",
+		"type": "article-journal",
+		"abstract": "One of the best known measures of information retrieval (IR) performance is the F-score, the harmonic mean of precision and recall. In this article we show that the curve of the F-score as a function of the number of retrieved items is always of the same shape: a fast concave increase to a maximum, followed by a slow decrease. In other words, there exists a single maximum, referred to as the tipping point, where the retrieval situation is 'ideal' in terms of the F-score. The tipping point thus indicates the optimal number of items to be retrieved, with more or less items resulting in a lower F-score. This empirical result is found in IR and link prediction experiments and can be partially explained theoretically, expanding on earlier results by Egghe. We discuss the implications and argue that, when comparing F-scores, one should compare the F-score curves' tipping points. © 2011 Elsevier Ltd. All rights reserved.",
+		"container-title": "Information Processing and Management",
+		"DOI": "10.1016/j.ipm.2012.02.009",
+		"ISSN": "03064573",
+		"issue": "6",
+		"page": "1171-1180",
+		"title": "The tipping point: F-score as a function of the number of retrieved items",
+		"volume": "48",
+		"author": [
+			{
+				"family": "Guns",
+				"given": "Raf"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "XIL7N9XT",
+		"type": "article-journal",
+		"abstract": "We present an ensemble learning method that predicts large increases in the hours of home care received by citizens. The method is supervised, and uses different ensembles of either linear (logistic regression) or non-linear (random forests) classifiers. Experiments with data available from 2013 to 2017 for every citizen in Copenhagen receiving home care (27,775 citizens) show that prediction can achieve state of the art performance as reported in similar health related domains (AUC=0.715). We further find that competitive results can be obtained by using limited information for training, which is very useful when full records are not accessible or available. Smart city analytics does not necessarily require full city records. To our knowledge this preliminary study is the first to predict large increases in home care for smart city analytics.",
+		"container-title": "International Conference on Information and Knowledge Management, Proceedings",
+		"DOI": "10.1145/3132847.3133101",
+		"note": "ISBN: 9781450349185",
+		"page": "2095-2098",
+		"publisher": "Association for Computing Machinery",
+		"title": "Smart city analytics: Ensemble-learned prediction of citizen home care",
+		"volume": "Part F131841",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "CQUND6K8",
+		"type": "article-journal",
+		"abstract": "TextRank is a variant of PageRank typically used in graphs that represent documents, and where vertices denote terms and edges denote relations between terms. Quite often the relation between terms is simple term co-occurrence within a fixed window of k terms. The output of TextRank when applied iteratively is a score for each vertex, i.e. a term weight, that can be used for information retrieval (IR) just like conventional term frequency based term weights. So far, when computing TextRank term weights over co-occurrence graphs, the window of term co-occurrence is always fixed. This work departs from this, and considers dynamically adjusted windows of term co-occurrence that follow the document structure on a sentence- and paragraph-level. The resulting TextRank term weights are used in a ranking function that re-ranks 1000 initially returned search results in order to improve the precision of the ranking. Experiments with two IR collections show that adjusting the vicinity of term co-occurrence when computing TextRank term weights can lead to gains in early precision. © 2012 Authors.",
+		"container-title": "SIGIR'12 - Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"DOI": "10.1145/2348283.2348478",
+		"note": "ISBN: 9781450316583",
+		"page": "1079-1080",
+		"title": "Fixed versus dynamic co-occurrence windows in TextRank term weights for information retrieval",
+		"author": [
+			{
+				"family": "Lu",
+				"given": "Wei"
+			},
+			{
+				"family": "Cheng",
+				"given": "Qikai"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "ARM53UEJ",
+		"type": "article-journal",
+		"abstract": "A standard approach to Information Retrieval (IR) is to model text as a bag of words. Alternatively, text can be modelled as a graph, whose vertices represent words, and whose edges represent relations between the words, defined on the basis of any meaningful statistical or linguistic relation. Given such a text graph, graph theoretic computations can be applied to measure various properties of the graph, and hence of the text. This work explores the usefulness of such graph-based text representations for IR. Specifically, we propose a principled graph-theoretic approach of (1) computing term weights and (2) integrating discourse aspects into retrieval. Given a text graph, whose vertices denote terms linked by co-occurrence and grammatical modification, we use graph ranking computations (e.g. PageRank Page et al. in The pagerank citation ranking: Bringing order to the Web. Technical report, Stanford Digital Library Technologies Project, 1998) to derive weights for each vertex, i.e. term weights, which we use to rank documents against queries. We reason that our graph-based term weights do not necessarily need to be normalised by document length (unlike existing term weights) because they are already scaled by their graph-ranking computation. This is a departure from existing IR ranking functions, and we experimentally show that it performs comparably to a tuned ranking baseline, such as BM25 (Robertson et al. in NIST Special Publication 500-236: TREC-4, 1995). In addition, we integrate into ranking graph properties, such as the average path length, or clustering coefficient, which represent different aspects of the topology of the graph, and by extension of the document represented as a graph. Integrating such properties into ranking allows us to consider issues such as discourse coherence, flow and density during retrieval. We experimentally show that this type of ranking performs comparably to BM25, and can even outperform it, across different TREC (Voorhees and Harman in TREC: Experiment and evaluation in information retrieval, MIT Press, 2005) datasets and evaluation measures. © 2011 Springer Science+Business Media, LLC.",
+		"container-title": "Information Retrieval",
+		"DOI": "10.1007/s10791-011-9172-x",
+		"ISSN": "13864564",
+		"issue": "1",
+		"page": "54-92",
+		"title": "Graph-based term weighting for information retrieval",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Blanco",
+				"given": "Roi"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "MX3QNPNG",
+		"type": "article-journal",
+		"abstract": "The ECIR half-day workshop on Task-Based and Aggregated Search (TBAS) was held in Barcelona, Spain on 1 April 2012. The program included a keynote talk by Professor Järvelin, six full paper presentations, two poster presentations, and an interactive discussion among the approximately 25 participants. This report overviews the aims and contents of the workshop and outlines the major outcomes.",
+		"container-title": "ACM SIGIR Forum",
+		"DOI": "10.1145/2215676.2215684",
+		"ISSN": "0163-5840",
+		"issue": "1",
+		"page": "71-77",
+		"publisher": "Association for Computing Machinery (ACM)",
+		"title": "Report on TBAS 2012",
+		"volume": "46",
+		"author": [
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Vries",
+				"given": "Arjen",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "A3TYSUZ3",
+		"type": "article-journal",
+		"abstract": "We study temporal aspects of authorship attribution - a task which aims to distinguish automatically between texts written by different authors by measuring textual features. This task is important in a number of areas, including plagiarism detection in secondary education, which we study in this work. As the academic abilities of students evolve during their studies, so does their writing style. These changes in writing style form a type of temporal context, which we study for the authorship attribution process by focussing on the students’ more recent writing samples. Experiments with real world data from Danish secondary school students show 84% prediction accuracy when using all available material and 71.9% prediction accuracy when using only the five most recent writing samples from each student. This type of authorship attribution with only few recent writing samples is significantly faster than conventional approaches using the complete writings of all authors. As such, it can be integrated into working interactive plagiarism detection systems for secondary education, which assist teachers by flagging automatically incoming student work that deviates significantly from the student’s previous work, even during scenarios requiring fast response and heavy data processing, like the period of national examinations.",
+		"container-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+		"DOI": "10.1007/978-3-319-12979-2_3",
+		"ISSN": "16113349",
+		"note": "ISBN: 9783319129785",
+		"page": "22-40",
+		"publisher": "Springer Verlag",
+		"title": "Temporal context for authorship attribution a study of Danish secondary schools",
+		"volume": "8849",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Niels Dalum"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "HAQCZTTT",
+		"type": "document",
+		"abstract": "Modelling sequential music skips provides streaming companies the ability to better understand the needs of the user base, resulting in a better user experience by reducing the need to manually skip certain music tracks. This paper describes the solution of the University of Copenhagen DIKU-IR team in the 'Spotify Sequential Skip Prediction Challenge', where the task was to predict the skip behaviour of the second half in a music listening session conditioned on the first half. We model this task using a Multi-RNN approach consisting of two distinct stacked recurrent neural networks, where one network focuses on encoding the first half of the session and the other network focuses on utilizing the encoding to make sequential skip predictions. The encoder network is initialized by a learned session-wide music encoding, and both of them utilize a learned track embedding. Our final model consists of a majority voted ensemble of individually trained models, and ranked 2nd out of 45 participating teams in the competition with a mean average accuracy of 0.641 and an accuracy on the first skip prediction of 0.807. Our code is released at https://github.com/Varyn/WSDM-challenge-2019-spotify.",
+		"note": "page: 4\ncontainer-title: 12th ACM International Conference on Web Search and Data Mining (WSDM) 2019, WSDM Cup\nvolume: 4",
+		"title": "Modelling Sequential Music Track Skips using a Multi-RNN Approach",
+		"URL": "http://arxiv.org/abs/1903.08408",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "V4T3TPRX",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 12th International Conference on Educational Data Mining, EDM 2019, Montréal, Canada, July 2-5, 2019",
+		"publisher": "International Educational Data Mining Society (IEDMS)",
+		"title": "Modelling End-of-Session Actions in Educational Systems",
+		"URL": "https://drive.google.com/file/d/1m6bHH4zJYnyC2EGr2dioFeSlEnhust5v",
+		"author": [
+			{
+				"family": "Hansen",
+				"given": "Christian"
+			},
+			{
+				"family": "Hansen",
+				"given": "Casper"
+			},
+			{
+				"family": "Alstrup",
+				"given": "Stephen"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"editor": [
+			{
+				"family": "Desmarais",
+				"given": "Michel C."
+			},
+			{
+				"family": "Lynch",
+				"given": "Collin F."
+			},
+			{
+				"family": "Merceron",
+				"given": "Agathe"
+			},
+			{
+				"family": "Nkambou",
+				"given": "Roger"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "27UMN7DN",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the Third Workshop on Bibliometric-enhanced Information Retrieval co-located with the 38th European Conference on Information Retrieval (ECIR 2016), Padova, Italy, March 20, 2016",
+		"page": "73-81",
+		"publisher": "CEUR-WS.org",
+		"title": "On the Need for and Provision for an 'IDEAL' Scholarly Information Retrieval Test Collection",
+		"URL": "https://ceur-ws.org/Vol-1567/paper8.pdf",
+		"volume": "1567",
+		"author": [
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"editor": [
+			{
+				"family": "Mayr",
+				"given": "Philipp"
+			},
+			{
+				"family": "Frommholz",
+				"given": "Ingo"
+			},
+			{
+				"family": "Cabanac",
+				"given": "Guillaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "UJIURI5L",
+		"type": "chapter",
+		"container-title": "Mining User Generated Content",
+		"DOI": "10.1201/B16413-11",
+		"page": "167-187",
+		"publisher": "Chapman and Hall/CRC",
+		"title": "User Generated Content Search",
+		"URL": "http://www.crcnetbase.com/doi/abs/10.1201/b16413-11",
+		"author": [
+			{
+				"family": "Blanco",
+				"given": "Roi"
+			},
+			{
+				"family": "Brea",
+				"given": "Manuel Eduardo Ares"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			}
+		],
+		"editor": [
+			{
+				"family": "Moens",
+				"given": "Marie-Francine"
+			},
+			{
+				"family": "Li",
+				"given": "Juanzi"
+			},
+			{
+				"family": "Chua",
+				"given": "Tat-Seng"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "BTUHZ9J8",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 3rd European Workshop on Human-Computer Interaction and Information Retrieval, Dublin, Ireland, August 1, 2013",
+		"page": "27-30",
+		"publisher": "CEUR-WS.org",
+		"title": "Comparative Study of Search Engine Result Visualisation: Ranked Lists Versus Graphs",
+		"URL": "https://ceur-ws.org/Vol-1033/paper14.pdf",
+		"volume": "1033",
+		"author": [
+			{
+				"family": "Petersen",
+				"given": "Casper"
+			},
+			{
+				"family": "Lioma",
+				"given": "Christina"
+			},
+			{
+				"family": "Simonsen",
+				"given": "Jakob Grue"
+			}
+		],
+		"editor": [
+			{
+				"family": "Wilson",
+				"given": "Max L."
+			},
+			{
+				"family": "Russell-Rose",
+				"given": "Tony"
+			},
+			{
+				"family": "Larsen",
+				"given": "Birger"
+			},
+			{
+				"family": "Hansen",
+				"given": "Preben"
+			},
+			{
+				"family": "Norling",
+				"given": "Kristian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
 				]
 			]
 		}
