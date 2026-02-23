@@ -6,8 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-<h1>{{page.title}}</h1>
-
 <!-- Staff -->
 
 <h2><a id="staff"></a>Staff</h2>
@@ -17,24 +15,27 @@ permalink: /team/
 <div class="col-md-6 col-lg-4">
     <div class="card team-member-card">
         <div class="row mt-3">
-            <div class="col-md-4 col-sm-3">
+            <div class="col-md-4 col-sm-3" style="min-width: 210px;">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
                     class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
+                    style="max-width: 200px; width: 100%; display: block; margin-right: 12px;"/>
             </div>
 
-            <div class="col-md-8 col-sm-9">
+            <div class="col-md-8 col-sm-9" style="min-width: 0;">
                 <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
-                <p class="card-text">{{ member.role }}</p>
-                <ul class="list-inline list-unstyled" style="margin-top: 10px; margin-bottom: 0;">
-                    {% assign gs_link = member.social['google-scholar'] %}
-                    {% if gs_link and gs_link != '' and gs_link != nil %}
-                        <li class="list-inline-item" style="margin-right: 10px;"><a target="_blank" href="{{gs_link}}" style="text-decoration: none; color: #4285F4;" title="Google Scholar"><i class="fab fa-google" style="font-size: 1.2em;"></i></a></li>
+                <p class="card-text" style="text-align: left;">{{ member.role }}</p>
+                {% if member.research_interests and member.research_interests != '' %}
+                <p class="card-text" style="margin-top: 6px; margin-bottom: 8px; text-align: left;"><small><strong style="white-space: nowrap;">Research interests:</strong> {{ member.research_interests }}</small></p>
+                {% endif %}
+                <ul class="list-inline list-unstyled" style="margin-top: 8px; margin-bottom: 0;">
+                    {% assign gs_link = member.social['google-scholar'] | strip %}
+                    {% if gs_link != '' %}
+                        <li class="list-inline-item" style="margin-right: 10px;"><a target="_blank" rel="noopener noreferrer" href="{{ gs_link }}" style="text-decoration: none; color: #4285F4;" title="Google Scholar" aria-label="Google Scholar"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4 2.2v7.8l8 4.5 8-4.5v-7.8l4-2.2L12 0zm0 3.2l5.5 3.1L12 9.5 6.5 6.3 12 3.2zM6 8.5v6.3l5.5 3.1 5.5-3.1V8.5L12 11.6 6 8.5z"/></svg></a></li>
                     {% endif %}
-                    {% assign web_link = member.social.website %}
-                    {% if web_link and web_link != '' and web_link != nil %}
-                        <li class="list-inline-item"><a target="_blank" href="{{web_link}}" style="text-decoration: none; color: #4285F4;" title="Website"><i class="fas fa-globe" style="font-size: 1.2em;"></i></a></li>
+                    {% assign web_link = member.social.website | strip %}
+                    {% if web_link != '' %}
+                        <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="{{ web_link }}" style="text-decoration: none; color: #4285F4;" title="Personal website" aria-label="Personal website"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg></a></li>
                     {% endif %}
                 </ul>
                 </div>
@@ -45,33 +46,36 @@ permalink: /team/
 {% endfor %}
 </div>
 
-<!-- Students -->
+<!-- Current Members -->
 
-<h2><a id="student"></a>Students</h2>
+<h2><a id="current-members"></a>Current Members</h2>
 <div class="row">
 {% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
 {% for member in members %}
 <div class="col-md-6 col-lg-4">
     <div class="card team-member-card">
         <div class="row mt-3">
-            <div class="col-md-4 col-sm-3">
+            <div class="col-md-4 col-sm-3" style="min-width: 170px;">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
                     class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
+                    style="max-width: 160px; width: 100%; display: block; margin-right: 12px;"/>
             </div>
 
-            <div class="col-md-8 col-sm-9">
+            <div class="col-md-8 col-sm-9" style="min-width: 0;">
                 <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
-                <p class="card-text">{{ member.role }}</p>
-                <ul class="list-inline list-unstyled" style="margin-top: 10px; margin-bottom: 0;">
-                    {% assign gs_link = member.social['google-scholar'] %}
-                    {% if gs_link and gs_link != '' and gs_link != nil %}
-                        <li class="list-inline-item" style="margin-right: 10px;"><a target="_blank" href="{{gs_link}}" style="text-decoration: none; color: #4285F4;" title="Google Scholar"><i class="fab fa-google" style="font-size: 1.2em;"></i></a></li>
+                <p class="card-text" style="text-align: left;">{{ member.role }}</p>
+                {% if member.research_interests and member.research_interests != '' %}
+                <p class="card-text" style="margin-top: 6px; margin-bottom: 8px; text-align: left;"><small><strong style="white-space: nowrap;">Research interests:</strong> {{ member.research_interests }}</small></p>
+                {% endif %}
+                <ul class="list-inline list-unstyled" style="margin-top: 8px; margin-bottom: 0;">
+                    {% assign gs_link = member.social['google-scholar'] | strip %}
+                    {% if gs_link != '' %}
+                        <li class="list-inline-item" style="margin-right: 10px;"><a target="_blank" rel="noopener noreferrer" href="{{ gs_link }}" style="text-decoration: none; color: #4285F4;" title="Google Scholar" aria-label="Google Scholar"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4 2.2v7.8l8 4.5 8-4.5v-7.8l4-2.2L12 0zm0 3.2l5.5 3.1L12 9.5 6.5 6.3 12 3.2zM6 8.5v6.3l5.5 3.1 5.5-3.1V8.5L12 11.6 6 8.5z"/></svg></a></li>
                     {% endif %}
-                    {% assign web_link = member.social.website %}
-                    {% if web_link and web_link != '' and web_link != nil %}
-                        <li class="list-inline-item"><a target="_blank" href="{{web_link}}" style="text-decoration: none; color: #4285F4;" title="Website"><i class="fas fa-globe" style="font-size: 1.2em;"></i></a></li>
+                    {% assign web_link = member.social.website | strip %}
+                    {% if web_link != '' %}
+                        <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="{{ web_link }}" style="text-decoration: none; color: #4285F4;" title="Personal website" aria-label="Personal website"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg></a></li>
                     {% endif %}
                 </ul>
                 </div>
@@ -80,5 +84,85 @@ permalink: /team/
     </div>
 </div>
 
+{% endfor %}
+</div>
+
+<!-- Visiting researchers -->
+
+<h2><a id="visiting"></a>Visiting researchers</h2>
+<div class="row">
+{% assign members = site.posts | where: 'category', 'visiting' | sort: 'date' %}
+{% for member in members %}
+<div class="col-md-6 col-lg-4">
+    <div class="card team-member-card">
+        <div class="row mt-3">
+            <div class="col-md-4 col-sm-3" style="min-width: 170px;">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="max-width: 160px; width: 100%; display: block; margin-right: 12px;"/>
+            </div>
+
+            <div class="col-md-8 col-sm-9" style="min-width: 0;">
+                <div class="card-body">
+                <h4 class="card-title">{{ member.title }}</h4>
+                <p class="card-text" style="text-align: left;">{{ member.role }}</p>
+                {% if member.research_interests and member.research_interests != '' %}
+                <p class="card-text" style="margin-top: 6px; margin-bottom: 8px; text-align: left;"><small><strong style="white-space: nowrap;">Research interests:</strong> {{ member.research_interests }}</small></p>
+                {% endif %}
+                <ul class="list-inline list-unstyled" style="margin-top: 8px; margin-bottom: 0;">
+                    {% assign gs_link = member.social['google-scholar'] | strip %}
+                    {% if gs_link != '' %}
+                        <li class="list-inline-item" style="margin-right: 10px;"><a target="_blank" rel="noopener noreferrer" href="{{ gs_link }}" style="text-decoration: none; color: #4285F4;" title="Google Scholar" aria-label="Google Scholar"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4 2.2v7.8l8 4.5 8-4.5v-7.8l4-2.2L12 0zm0 3.2l5.5 3.1L12 9.5 6.5 6.3 12 3.2zM6 8.5v6.3l5.5 3.1 5.5-3.1V8.5L12 11.6 6 8.5z"/></svg></a></li>
+                    {% endif %}
+                    {% assign web_link = member.social.website | strip %}
+                    {% if web_link != '' %}
+                        <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="{{ web_link }}" style="text-decoration: none; color: #4285F4;" title="Personal website" aria-label="Personal website"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg></a></li>
+                    {% endif %}
+                </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
+</div>
+
+<!-- Past members -->
+
+<h2><a id="past-members"></a>Past members</h2>
+<div class="row">
+{% assign members = site.posts | where: 'category', 'past' | sort: 'date' %}
+{% for member in members %}
+<div class="col-md-6 col-lg-4">
+    <div class="card team-member-card">
+        <div class="row mt-3">
+            <div class="col-md-4 col-sm-3" style="min-width: 170px;">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="max-width: 160px; width: 100%; display: block; margin-right: 12px;"/>
+            </div>
+
+            <div class="col-md-8 col-sm-9" style="min-width: 0;">
+                <div class="card-body">
+                <h4 class="card-title">{{ member.title }}</h4>
+                <p class="card-text" style="text-align: left;">{{ member.role }}</p>
+                {% if member.research_interests and member.research_interests != '' %}
+                <p class="card-text" style="margin-top: 6px; margin-bottom: 8px; text-align: left;"><small><strong style="white-space: nowrap;">Research interests:</strong> {{ member.research_interests }}</small></p>
+                {% endif %}
+                <ul class="list-inline list-unstyled" style="margin-top: 8px; margin-bottom: 0;">
+                    {% assign gs_link = member.social['google-scholar'] | strip %}
+                    {% if gs_link != '' %}
+                        <li class="list-inline-item" style="margin-right: 10px;"><a target="_blank" rel="noopener noreferrer" href="{{ gs_link }}" style="text-decoration: none; color: #4285F4;" title="Google Scholar" aria-label="Google Scholar"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4 2.2v7.8l8 4.5 8-4.5v-7.8l4-2.2L12 0zm0 3.2l5.5 3.1L12 9.5 6.5 6.3 12 3.2zM6 8.5v6.3l5.5 3.1 5.5-3.1V8.5L12 11.6 6 8.5z"/></svg></a></li>
+                    {% endif %}
+                    {% assign web_link = member.social.website | strip %}
+                    {% if web_link != '' %}
+                        <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="{{ web_link }}" style="text-decoration: none; color: #4285F4;" title="Personal website" aria-label="Personal website"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg></a></li>
+                    {% endif %}
+                </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 {% endfor %}
 </div>

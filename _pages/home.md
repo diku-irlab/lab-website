@@ -8,8 +8,6 @@ permalink: /
 
 ### About the Lab
 
-DIKU IR LAB
-
 The Inference and Retrieval Lab at the Department of Computer Science, University of Copenhagen (DIKU) is a team of faculty, postdocs, research scientists, programmers, and students 
 who work together on models and algorithms that allow computers to process and make inferences about human language text.
 
