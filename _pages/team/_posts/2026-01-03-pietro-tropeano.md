@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Pietro Tropeano
 image: researcher.png
-# role: PhD Student
+role: PhD Student
 research_interests: ""
 permalink: 'team/pietro-tropeano'
 social:

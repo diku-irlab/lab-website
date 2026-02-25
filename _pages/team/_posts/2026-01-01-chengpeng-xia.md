@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Chengpeng Xia
 image: researcher.png
-role: PhD Student
+role: Post-Doctoral Candidate
 research_interests: ""
 permalink: 'team/chengpeng-xia'
 social:

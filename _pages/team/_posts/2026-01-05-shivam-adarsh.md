@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Shivam Adarsh
 image: researcher.png
-# role: PhD Student
+role: PhD Student
 research_interests: ""
 permalink: 'team/shivam-adarsh'
 social:

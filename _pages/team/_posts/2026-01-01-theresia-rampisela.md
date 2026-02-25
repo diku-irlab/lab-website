@@ -3,7 +3,7 @@ layout: member
 category: visiting
 title: Theresia Veronika Rampisela
 image: researcher.png
-# role: Visiting Researcher
+role: Visiting Researcher
 research_interests: ""
 permalink: 'team/theresia-veronika-rampisela'
 social:
