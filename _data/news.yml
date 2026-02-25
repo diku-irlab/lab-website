@@ -1,4 +1,22 @@
 - date: December 2025
+  title: "Two papers accepted at ECIR 2026"
+  content: >
+    The IR Lab will present the following papers at the 48th European Conference on Information Retrieval (ECIR 2026).
+    <br>
+    <ul>
+      <li> <i>Post-Training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation</i>,
+      <br> by Ervin Dervishaj, Maria Maistro, Tuukka Ruotsalo, Christina Lioma
+      </li> 
+      <br>
+      <li> <i>Measuring Individual User Fairness with User Similarity and Effectiveness Disparity</i>, 
+      <br> by Theresia Veronika Rampisela, Maria Maistro, Tuukka Ruotsalo, Christina Lioma
+      </li> 
+      <br>
+    </ul>
+    <br> 
+    See you in Delft!
+
+- date: December 2025
   title: "Chengpeng Xia joins the lab as a post-doctoral researcher"
   # tags:
   #   - Post-doctoral candidate
@@ -21,6 +39,44 @@
   #   - defense
   content: Theresia Veronika Rampisela passes her PhD defense. Her thesis is on ''Offline Evaluation Measures of Fairness in Recommender Systems''. The thesis can be accessed <a href="https://di.ku.dk/english/research/phd/phd-theses/2025/Theresia_Veronika_Rampisela_PhD_thesis.pdf">here</a>.
 
+- date: June 2024
+  title: "Congratulations to Simone for passing her PhD defense!"
+  # tags:
+  #   - phd
+  #   - defense
+  content: Simone Borg Bruun passes her PhD defense. Her thesis is on ''Learning Recommendations from Sparse and Heterogeneous Data''. The thesis can be accessed <a href="https://di.ku.dk/english/research/phd/phd-theses/2024/PhD_Thesis_Simone.pdf">here</a>.
+
+- date: June 2024
+  title: "Congratulations to Zhan for passing his PhD defense!"
+  # tags:
+  #   - phd
+  #   - defense
+  content: Zhan Su passes his PhD defense. His thesis is on ''Information Propagation in Modular Language Modeling and Web Tracking''. The thesis can be accessed <a href="https://di.ku.dk/english/research/phd/phd-theses/2024/PhD_Thesis_Zhan_Su_at_DIKU_.pdf">here</a>.
+
+- date: August 2023
+  title: "SIGIR Early Career Researcher Award for Maria Maistro"
+  # tags:
+  #   - some
+  #   - tag
+  content: Tenure-track Assistant Professor Maria Maistro has been awarded the 2023 <a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Researcher Award for Diversity, Equity, and Inclusion</a>. Congratulations, Maria! 
+
+- date: May 2019
+  title: "Two papers accepted at SIGIR'19"
+  # tags:
+  #   - some
+  #   - tag
+  content: > 
+    The IR lab got two papers accepted at the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval.
+    <ul>
+      <li> <a href="https://dl.acm.org/doi/10.1145/3331184.3331255"><i>Unsupervised Neural Generative Semantic Hashing</i></a>,
+      <br> by Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup, and Christina Lioma
+      </li>
+      <li> <a href="https://dl.acm.org/doi/10.1145/3331184.3331307"><i>Contextually Propagated Term Weights for Document Representation</i></a>, 
+      <br> by Casper Hansen, Christian Hansen, Stephen Alstrup, Jakob Grue Simonsen, and Christina Lioma
+      </li>
+    </ul>
+    <br> 
+
 - date: May 2019
   title: "IR lab members won the second place in WSDM Spotify Challenge"
   tags:
@@ -30,3 +86,19 @@
     Researchers from the IR lab competed in the <a href=https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge>Spotify Sequential Skip Prediction Challenge</a> at WSDM Cup. 
     The task of the competition was to predict if users will skip or listen to the music they are currently streaming. 
     The team won the second place with a deep learning approach described in the following paper: <a href="https://arxiv.org/abs/1903.08408">Modelling Sequential Music Track Skips using a Multi-RNN Approach</a>. 
+
+- date: May 2019
+  title: "Two papers accepted at WWW'19 workshops"
+  # tags:
+  #   - some
+  #   - tag
+  content: > 
+    The IR lab got papers accepted at two different WWW workshops:
+    <ul>
+      <li>
+        <i>International Workshop on Misinformation, Computational Fact-Checking</i>: <a href="https://dl.acm.org/doi/10.1145/3308560.3316736">Neural Check-Worthiness Ranking with Weak Supervision: Finding Sentences for Fact-Checking</a> (Casper Hansen, Christian Hansen, Stephen Alstrup, Jakob Grue Simonsen, and Christina Lioma)
+      </li>
+      <li>
+        <i>Credible Web and International Workshop of Deep Learning for Graphs and Structured Data Embedding</i>: <a href="https://dl.acm.org/doi/10.1145/3308560.3316584">Contextual Compositionality Detection with External Knowledge Bases and Word Embeddings</a> (Dongsheng Wang, Qiuchi Li, Lucas Chaves Lima, Jakob Grue Simonsen, and Christina Lioma)
+      </li>
+    </ul>
