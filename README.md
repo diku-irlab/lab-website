@@ -33,6 +33,26 @@ Run the local webserver with:
 bundle exec jekyll serve
 ```
 
+For a **GitHub Pages project site**, run locally with the same base URL as production:
+
+``` bash
+bundle exec jekyll serve --baseurl '/lab-website'
+```
+
+Then open `http://localhost:4000/lab-website/`.
+
+## Deploy to GitHub Pages
+
+1. In **Settings → Pages**, set source to the branch that contains the site (e.g. `main`) and folder to `/ (root)` or let GitHub Actions build (if configured).
+
+2. In **`_config.yml`**, set `baseurl` to your repository name with a leading slash:
+   - If the site URL is `https://USERNAME.github.io/REPO_NAME/`, use `baseurl: "/REPO_NAME"` (e.g. `baseurl: "/lab-website"`).
+   - If the site is a user/org site at `https://USERNAME.github.io/`, use `baseurl: ""`.
+
+3. Optional: set `url: "https://USERNAME.github.io"` so canonical and absolute links are correct.
+
+4. Push to the branch; the site will be built and published. After the first deploy, it may take a few minutes to appear.
+
 ## Contribute
 
 ### Add a new member

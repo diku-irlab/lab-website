@@ -15,11 +15,11 @@ description: > # this means to ignore newlines until "baseurl:"
   Founded in 2012, our work is in the areas of information retrieval, data mining and applied machine learning (mainly for web data), 
   with applications to search engines, recommender systems, plagiarism detection, opinion/sentiment mining, and text analytics, and with particular emphasis to large-scale web data.
 
-baseurl: ""
-url: ""
+# GitHub Pages: site in lab-website repo → https://diku-irlab.github.io/lab-website/
+baseurl: "/lab-website"
+url: "https://diku-irlab.github.io"
 
 include:
-  - .htaccess
   - _pages
 
 sass:
