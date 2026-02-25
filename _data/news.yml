@@ -1,21 +1,13 @@
-- date: 05/09/19
-  title: "Another great thing"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: December 2025
+  title: "Chengpeng Xia joins the lab as a post-doctoral candidate"
+  # tags:
+  #   - Post-doctoral candidate
+  #   - Chengpeng Xia
+  content: Chengpeng Xia joins the lab as a post-doctoral candidate. He will be working on the topic of photonic computing for neural networks accelarator.
 
-- date: 03/09/19
-  title: "Something great"
+- date: September 2025
+  title: "Congratulations to Theresia for passing her PhD defense!"
   tags:
     - some
     - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+  content: Theresia Veronika Rampisela passes her PhD defense. Her thesis is on the topic of Offline Evaluation Measures of Fairness in Recommender Systems.
