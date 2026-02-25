@@ -2,9 +2,9 @@
 layout: member
 category: student
 title: Shivam Adarsh
-image: researcher.png
+image: shivam_photo.jpg
 role: PhD Student
-research_interests: "NA"
+research_interests: "NLP, Interpretability, AI Safety"
 permalink: 'team/shivam-adarsh'
 social:
     # twitter: https://twitter.com/
