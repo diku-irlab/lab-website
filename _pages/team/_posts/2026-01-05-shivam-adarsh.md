@@ -4,7 +4,7 @@ category: student
 title: Shivam Adarsh
 image: researcher.png
 role: PhD Student
-research_interests: ""
+research_interests: "NA"
 permalink: 'team/shivam-adarsh'
 social:
     # twitter: https://twitter.com/

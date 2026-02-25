@@ -4,7 +4,7 @@ category: student
 title: Pietro Tropeano
 image: researcher.png
 role: PhD Student
-research_interests: ""
+research_interests: "NA"
 permalink: 'team/pietro-tropeano'
 social:
     # twitter: https://twitter.com/

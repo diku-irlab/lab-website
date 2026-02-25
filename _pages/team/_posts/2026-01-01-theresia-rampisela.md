@@ -4,7 +4,7 @@ category: visiting
 title: Theresia Veronika Rampisela
 image: researcher.png
 role: Visiting Researcher
-research_interests: ""
+research_interests: "NA"
 permalink: 'team/theresia-veronika-rampisela'
 social:
     # twitter: https://twitter.com/

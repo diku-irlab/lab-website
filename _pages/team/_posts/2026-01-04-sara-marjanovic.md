@@ -4,7 +4,7 @@ category: student
 title: Sara Marjanovic
 image: researcher.png
 role: PhD Student
-research_interests: ""
+research_interests: "NA"
 permalink: 'team/sara-marjanovic'
 social:
     # twitter: https://twitter.com/

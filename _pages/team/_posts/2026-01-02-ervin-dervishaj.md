@@ -4,7 +4,7 @@ category: student
 title: Ervin Dervishaj
 image: researcher.png
 role: PhD Student
-research_interests: ""
+research_interests: "NA"
 permalink: 'team/ervin-dervishaj'
 social:
     # twitter: https://twitter.com/
