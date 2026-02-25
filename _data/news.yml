@@ -1,7 +1,7 @@
 - date: December 2025
   title: "Two papers accepted at ECIR 2026"
   content: >
-    The IR Lab will present the following papers at the 48th European Conference on Information Retrieval (ECIR 2026).
+    The IR lab will present the following papers at the 48th European Conference on Information Retrieval (ECIR 2026).
     <br>
     <ul>
       <li> <i>Post-Training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation</i>,
@@ -13,7 +13,6 @@
       </li> 
       <br>
     </ul>
-    <br> 
     See you in Delft!
 
 - date: December 2025
@@ -39,6 +38,15 @@
   #   - defense
   content: Theresia Veronika Rampisela passes her PhD defense. Her thesis is on ''Offline Evaluation Measures of Fairness in Recommender Systems''. The thesis can be accessed <a href="https://di.ku.dk/english/research/phd/phd-theses/2025/Theresia_Veronika_Rampisela_PhD_thesis.pdf">here</a>.
 
+- date: October 2024
+  title: "IR lab members receive Journal Paper of the Year Award at RecSys 2024"
+  # tags:
+  #   - some
+  #   - tags
+  content: >
+    Congratulations to Theresia Veronika Rampisela, Maria Maistro, Tuukka Ruotsalo, and Christina Lioma, who have received a "Women in RecSys Journal Paper of the Year" award at the 18th ACM Conference on Recommender Systems (RecSys 2024).
+    The award is given for their ACM TORS paper <a href="https://dl.acm.org/doi/10.1145/3631943">Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study</a>. 
+
 - date: June 2024
   title: "Congratulations to Simone for passing her PhD defense!"
   # tags:
@@ -60,6 +68,10 @@
   #   - tag
   content: Tenure-track Assistant Professor Maria Maistro has been awarded the 2023 <a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Researcher Award for Diversity, Equity, and Inclusion</a>. Congratulations, Maria! 
 
+- date: April 2023
+  title: "Sara Vera Marjanovic joins the lab as PhD student"
+  content: Sara Vera Marjanovic joins the lab as a PhD student. She will investigate uncertainty and biases present in language models via an interpretability-centric approach.
+
 - date: May 2019
   title: "Two papers accepted at SIGIR'19"
   # tags:
@@ -71,6 +83,7 @@
       <li> <a href="https://dl.acm.org/doi/10.1145/3331184.3331255"><i>Unsupervised Neural Generative Semantic Hashing</i></a>,
       <br> by Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup, and Christina Lioma
       </li>
+      <br>
       <li> <a href="https://dl.acm.org/doi/10.1145/3331184.3331307"><i>Contextually Propagated Term Weights for Document Representation</i></a>, 
       <br> by Casper Hansen, Christian Hansen, Stephen Alstrup, Jakob Grue Simonsen, and Christina Lioma
       </li>
@@ -98,6 +111,7 @@
       <li>
         <i>International Workshop on Misinformation, Computational Fact-Checking</i>: <a href="https://dl.acm.org/doi/10.1145/3308560.3316736">Neural Check-Worthiness Ranking with Weak Supervision: Finding Sentences for Fact-Checking</a> (Casper Hansen, Christian Hansen, Stephen Alstrup, Jakob Grue Simonsen, and Christina Lioma)
       </li>
+      <br>
       <li>
         <i>Credible Web and International Workshop of Deep Learning for Graphs and Structured Data Embedding</i>: <a href="https://dl.acm.org/doi/10.1145/3308560.3316584">Contextual Compositionality Detection with External Knowledge Bases and Word Embeddings</a> (Dongsheng Wang, Qiuchi Li, Lucas Chaves Lima, Jakob Grue Simonsen, and Christina Lioma)
       </li>
