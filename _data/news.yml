@@ -72,6 +72,27 @@
   title: "Sara Vera Marjanovic joins the lab as PhD student"
   content: Sara Vera Marjanovic joins the lab as a PhD student. She will investigate uncertainty and biases present in language models via an interpretability-centric approach.
 
+- date: September 2021
+  title: "Congratulations to Lucas for passing his PhD defense!"
+  # tags:
+  #   - phd
+  #   - defense
+  content: Lucas Chavez Lima passes his PhD defense. His thesis is on ''Semantic Classification and Evaluation''. The thesis can be accessed <a href="Semantic Classification and Evaluation">here</a>.
+
+- date: August 2021
+  title: "Congratulations to Casper and Christian for passing their PhD defense!"
+  # tags:
+  #   - phd
+  #   - defense
+  content: >
+    Casper Hansen and Christian Hansen pass their PhD defense. 
+    Casper's thesis is on <a href="https://di.ku.dk/english/research/phd/phd-theses/2021/Casper_Hansen_PhD_Thesis.pdf">Representation Learning for Efficient and Effective Similarity Search and Recommendation</a>. 
+    Christian's thesis is on <a href="https://di.ku.dk/english/research/phd/phd-theses/2021/Christian_Hansen_PhD_Thesis.pdf">Sequential Modelling with Applications to Music Recommendation, Fact-Checking, and Speed Reading</a>.
+
+- date: January 2021
+  title: "Qiuchi Li joins the lab as a post-doctoral researcher"
+  content: "Qiuchi Li joins the lab as a post-doctoral researcher. He will be working on the JobMatch project: Machine Learning for Personalized and Persuasive Job Recommendation."
+
 - date: May 2019
   title: "Two papers accepted at SIGIR'19"
   # tags:
