@@ -5,9 +5,28 @@
   #   - Chengpeng Xia
   content: Chengpeng Xia joins the lab as a post-doctoral researcher. He will be working on the topic of photonic computing for neural networks accelarator.
 
+- date: October 2025
+  title: "Best paper award nomination at ACM ICMI 2025"
+  # tags:
+  #   - some
+  #   - tag
+  content: >
+    The paper <a href="https://dl.acm.org/doi/10.1145/3716553.3750786">Decoding Affective States without Labels: Bimodal Image-brain Supervision</a> has been nominated for best paper award at the 27th ACM International Conference on Multimodal Interaction (ICMI 2025).
+    This paper is authored by IR lab members Vadym Gryshchuk, Maria Maistro, Christina Lioma, and Tuukka Ruotsalo. Congratulations!
+
 - date: September 2025
   title: "Congratulations to Theresia for passing her PhD defense!"
+  # tags:
+  #   - phd
+  #   - defense
+  content: Theresia Veronika Rampisela passes her PhD defense. Her thesis is on ''Offline Evaluation Measures of Fairness in Recommender Systems''. The thesis can be accessed <a href="https://di.ku.dk/english/research/phd/phd-theses/2025/Theresia_Veronika_Rampisela_PhD_thesis.pdf">here</a>.
+
+- date: May 2019
+  title: "IR lab members won the second place in WSDM Spotify Challenge"
   tags:
-    - some
-    - tags
-  content: Theresia Veronika Rampisela passes her PhD defense. Her thesis is on the topic of Offline Evaluation Measures of Fairness in Recommender Systems.
+    - WSDM
+    - achievement
+  content: > 
+    Researchers from the IR lab competed in the <a href=https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge>Spotify Sequential Skip Prediction Challenge</a> at WSDM Cup. 
+    The task of the competition was to predict if users will skip or listen to the music they are currently streaming. 
+    The team won the second place with a deep learning approach described in the following paper: <a href="https://arxiv.org/abs/1903.08408">Modelling Sequential Music Track Skips using a Multi-RNN Approach</a>. 
