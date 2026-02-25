@@ -9,7 +9,7 @@ permalink: 'team/sara-marjanovic'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
-    google-scholar:
+    google-scholar: https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en&oi=ao 
     website:
     # github: https://github.com/
 education:

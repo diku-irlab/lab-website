@@ -9,7 +9,7 @@ permalink: 'team/theresia-veronika-rampisela'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
-    google-scholar:
+    google-scholar: https://scholar.google.com/citations?user=SIAkSigAAAAJ&hl=en
     website:
     # github: https://github.com/
 education:

@@ -9,7 +9,7 @@ permalink: 'team/chengpeng-xia'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
-    google-scholar:
+    google-scholar: https://scholar.google.com/citations?user=P5MGoGoAAAAJ&hl=zh-CN 
     website:
     # github: https://github.com/
 education:

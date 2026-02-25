@@ -9,7 +9,7 @@ permalink: 'team/ervin-dervishaj'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
-    google-scholar:
+    google-scholar: https://scholar.google.com/citations?user=kFIoDqAAAAAJ&hl=en
     website:
     # github: https://github.com/
 education:
