@@ -2,16 +2,16 @@
 layout: member
 category: student
 title: Pietro Tropeano
-image: researcher.png
+image: PietroTropeano.png
 role: PhD Student
-research_interests: "NA"
+research_interests: "Language Models, Pruning, LLMs efficiency"
 permalink: 'team/pietro-tropeano'
 social:
     # twitter: https://twitter.com/
-    # linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.com/citations?user=q76ge-AAAAAJ&hl=it
+    linkedin: https://www.linkedin.com/in/pietro-tropeano-ml
+    google-scholar: https://scholar.google.com/citations?user=q76ge-AAAAAJ&hl=en
     website:
-    # github: https://github.com/
+    github: https://github.com/pietrotrope
 education:
  - Education
 ---
