@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Pietro Tropeano
-image: PietroTropeano.png
+image: PietroTropeano.jpg
 role: PhD Student
 research_interests: "Language Models, Pruning, LLMs efficiency"
 permalink: 'team/pietro-tropeano'
