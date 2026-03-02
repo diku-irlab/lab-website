@@ -4,12 +4,7 @@ layout: homelay
 excerpt: "DIKU IR Lab"
 sitemap: false
 permalink: /
+about_heading: "About the Lab"
 ---
 
-### About the Lab
-
-The Inference and Retrieval Lab at the Department of Computer Science, University of Copenhagen (DIKU) is a team of faculty, postdocs, research scientists, programmers, and students 
-who work together on models and algorithms that allow computers to process and make inferences about human language text.
-
-Founded in 2012, our work is in the areas of information retrieval, data mining and applied machine learning (mainly for web data), 
-with applications to search engines, recommender systems, plagiarism detection, opinion/sentiment mining, and text analytics, and with particular emphasis to large-scale web data.
+In the Inference & Retrieval Lab, we conduct research in the areas of applied machine learning and artificial intelligence, such as large language models and generative AI, AI agents, search and recommendation, and neurophysiological multimodal learning. We study and develop tools that provide effective, efficient, ethical and sustainable access to large-scale, hetereogeneous data, and methods for processing and evaluating them. We publish internationally in these areas, and collaborate with a broad international network of research institutes. We also work closely with government and industry partners on research and technology transfer, as well as outreach activities for primary and secondary education. 

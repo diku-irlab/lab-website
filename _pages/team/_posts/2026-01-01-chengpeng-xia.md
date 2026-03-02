@@ -4,7 +4,7 @@ category: student
 title: Chengpeng Xia
 image: researcher.png
 role: Post-Doctoral Researcher
-research_interests: "NA"
+research_interests: " "
 permalink: 'team/chengpeng-xia'
 social:
     # twitter: https://twitter.com/

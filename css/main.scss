@@ -32,6 +32,13 @@ figcaption {
   margin-right: 0 !important;
 }
 
+/* Team page: cards flow left to right, align left when row is incomplete */
+.team-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
 .team-member-card {
   margin-top: 20px;
   margin-bottom: 20px;

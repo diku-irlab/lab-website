@@ -4,7 +4,7 @@ category: student
 title: Vadym Gryshchuk
 image: researcher.png
 role: PhD Student
-research_interests: "NA"
+research_interests: " "
 permalink: 'team/vadym-gryshchuk'
 social:
     # twitter: https://twitter.com/

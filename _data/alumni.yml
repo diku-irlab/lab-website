@@ -1,0 +1,80 @@
+# Add Google Scholar profile URL for each person (replace empty string with e.g. https://scholar.google.com/citations?user=USER_ID&hl=en)
+- name: Theresia Veronika Rampisela
+  description: "Ph.D. 2025 (→ postdoc at University of Copenhagen)"
+  scholar_url: "https://scholar.google.com/citations?user=SIAkSigAAAAJ&hl=en"
+
+- name: Quichi Li
+  description: "postdoc (→ Faculty at Beijing Institute of Technology)"
+  scholar_url: "https://scholar.google.com/citations?user=vZ3-V8oAAAAJ&hl=en"
+
+- name: Simone Borg Bruun
+  description: "Ph.D. 2024 (→ Alka Forsikring)"
+  scholar_url: "https://arxiv.org/search/cs?searchtype=author&query=Bruun,+S+B"
+
+- name: Ziyi Ye
+  description: "visiting Ph.D. student in 2024 (→ Faculty at Fudan University)"
+  scholar_url: "https://scholar.google.com/citations?user=M3Qsb6cAAAAJ&hl=zh-CN"
+
+- name: Lucas Chaves Lima
+  description: "Ph.D. 2021 (→ Podimo)"
+  scholar_url: "https://scholar.google.dk/citations?user=Acyo_GIAAAAJ&hl=en"
+
+- name: Christian Hansen
+  description: "Ph.D. 2021 (→ Churney)"
+  scholar_url: "https://scholar.google.com/citations?user=IhMPEDwAAAAJ&hl=da"
+
+- name: Casper Hansen
+  description: "Ph.D. 2021 (→ Churney)"
+  scholar_url: "https://scholar.google.com/citations?user=lwXO0soAAAAJ&hl=en"
+
+- name: Dongsheng Wang
+  description: "Ph.D. 2020 (→ JPMorgan)"
+  scholar_url: "https://www.linkedin.com/in/dongsheng-wang-14036179/"
+
+- name: Julian Zimmert
+  description: "Ph.D. 2020 (→ Google Research)"
+  scholar_url: "https://scholar.google.com/citations?user=isgoo2QAAAAJ&hl=en"
+
+- name: Pepa Atanasova
+  description: "Ph.D. 2019 (→ Faculty at University of Copenhagen)"
+  scholar_url: "https://scholar.google.com/citations?user=CLOC3rEAAAAJ&hl=en"
+
+- name: Niklas Hjuler
+  description: "Ph.D. 2019 (→ NES TECH A/S)"
+  scholar_url: "https://www.linkedin.com/in/niklas-hjuler-4a5290b4/?originalSubdomain=dk"
+
+- name: Benyou Wang
+  description: "visiting Ph.D. student in 2019 (→ Faculty at The Chinese University of Hong Kong)"
+  scholar_url: "https://scholar.google.com/citations?user=Jk4vJU8AAAAJ&hl=en"
+
+- name: Dimitris Gkoumas
+  description: "visiting Ph.D. student in 2019 (→ Method)"
+  scholar_url: "https://www.linkedin.com/in/goumasjim/?originalSubdomain=uk"
+
+- name: Niels Dalum Hansen
+  description: "Ph.D. 2017 (→ Jyske Bank)"
+  scholar_url: "https://www.linkedin.com/in/niels-dalum-hansen-4b867a70/"
+
+- name: Maria Maistro
+  description: "postdoc (→ Faculty at University of Copenhagen)"
+  scholar_url: "https://scholar.google.com/citations?user=QV3v_8kAAAAJ&hl=it"
+
+- name: Brian Brost
+  description: "Ph.D. 2017 (→ Churney)"
+  scholar_url: "https://www.linkedin.com/in/brianbrost/"
+
+- name: Casper Petersen
+  description: "Ph.D. 2016 (→ Consid)"
+  scholar_url: "https://www.linkedin.com/in/casper-petersen-6199097b/"
+
+- name: Alessandro Sordoni
+  description: "visiting Ph.D. student in 2014 (→ Microsoft)"
+  scholar_url: "https://scholar.google.com/citations?user=DJon7w4AAAAJ&hl=en"
+
+- name: Alok Kothari
+  description: "WordSense AI"
+  scholar_url: "https://www.linkedin.com/in/alokkothari/"
+
+- name: Charles Jochim
+  description: "Ph.D. 2013 (→ Integral Ad Science)"
+  scholar_url: "https://www.linkedin.com/in/charles-j-9a9a7b196/"
