@@ -2,9 +2,9 @@
 layout: member
 category: student
 title: Chengpeng Xia
-image: researcher.png
+image: Chengpeng.jpg
 role: Post-Doctoral Researcher
-research_interests: " "
+research_interests: "Photonic Computing, Neural Network Accelerators, Neural Network Compression, and Hardware–Algorithm Co-Design."
 permalink: 'team/chengpeng-xia'
 social:
     # twitter: https://twitter.com/

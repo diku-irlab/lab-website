@@ -50,6 +50,29 @@ figcaption {
   max-width: 900px; /* or 950px */
 }
 
+/* Open Positions page */
+.open-positions-intro {
+  text-align: left;
+  margin-bottom: 1.5rem;
+}
+
+.open-position-panel {
+  margin-bottom: 1.25rem;
+}
+
+.open-position-panel .panel-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.open-position-body {
+  text-align: left;
+}
+
+.open-position-body p:last-child {
+  margin-bottom: 0;
+}
+
 /* Carousel */
 
 .carousel {

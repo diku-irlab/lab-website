@@ -1,0 +1,22 @@
+# Edit entries below to add or update open positions.
+# Each entry becomes one box on the Open Positions page.
+
+- title: PhD positions
+  content: |
+    We are looking for motivated PhD students to join the lab. Topics include information retrieval, recommender systems, large language models, and applied machine learning.
+
+    **What we offer:** A collaborative research environment at the Department of Computer Science, University of Copenhagen, with opportunities to publish at top venues and work with international collaborators.
+
+    **How to apply:** Send your CV, a short statement of research interests, and contact details for two referees to the lab email address.
+
+- title: Postdoctoral researcher
+  content: |
+    We occasionally have openings for postdoctoral researchers with a strong publication record in IR, NLP, or machine learning.
+
+    If you are interested in a postdoc position, please email us with your CV, publication list, and a brief description of how your research aligns with the lab.
+
+- title: MSc thesis and research projects
+  content: |
+    We welcome MSc students who wish to write their thesis or carry out a research project with the lab. Projects are typically aligned with ongoing lab research in search, recommendation, or generative AI.
+
+    Contact us with your background and areas of interest to discuss possible supervision.

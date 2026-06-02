@@ -1,0 +1,4491 @@
+[
+  {
+    "id": "dblp_2026_20cde9eb",
+    "type": "article-journal",
+    "title": "Relevance-aware Individual Item Fairness Measures for Recommender Systems: Limitations and Usage Guidelines",
+    "container-title": "Trans. Recomm. Syst.",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Scholer",
+        "given": "Falk"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.1145/3765624",
+    "URL": "https://doi.org/10.1145/3765624",
+    "volume": "4",
+    "page": "37:1-37:45",
+    "publisher": "",
+    "_source_key": "journals/tors/RampiselaMRSL26"
+  },
+  {
+    "id": "dblp_2026_083aa8f9",
+    "type": "article-journal",
+    "title": "Predicting Document Relevance from Brain Recordings",
+    "container-title": "ACM Trans. Inf. Syst.",
+    "author": [
+      {
+        "family": "Gryshchuk",
+        "given": "Vadym"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.1145/3766067",
+    "URL": "https://doi.org/10.1145/3766067",
+    "volume": "44",
+    "page": "13:1-13:30",
+    "publisher": "",
+    "_source_key": "journals/tois/GryshchukMLR26"
+  },
+  {
+    "id": "dblp_2026_24c73e5f",
+    "type": "paper-conference",
+    "title": "Post-training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Dervishaj",
+        "given": "Ervin"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-032-21289-4_28",
+    "URL": "https://doi.org/10.1007/978-3-032-21289-4_28",
+    "volume": "abs/2601.18009",
+    "page": "434-449",
+    "publisher": "",
+    "_source_key": "conf/ecir/DervishajMRL26"
+  },
+  {
+    "id": "dblp_2026_6147f7fe",
+    "type": "paper-conference",
+    "title": "Measuring Individual User Fairness with User Similarity and Effectiveness Disparity",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-032-21300-6_1",
+    "URL": "https://doi.org/10.1007/978-3-032-21300-6_1",
+    "volume": "abs/2602.02516",
+    "page": "3-21",
+    "publisher": "",
+    "_source_key": "conf/ecir/RampiselaMRL26"
+  },
+  {
+    "id": "dblp_2026_96c50461",
+    "type": "article-journal",
+    "title": "How Context Shapes Truth: Geometric Transformations of Statement-level Truth Representations in LLMs",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Adarsh",
+        "given": "Shivam"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2601.06599",
+    "URL": "https://doi.org/10.48550/arXiv.2601.06599",
+    "volume": "abs/2601.06599",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2601-06599"
+  },
+  {
+    "id": "dblp_2026_87415b9f",
+    "type": "article-journal",
+    "title": "Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Rotar",
+        "given": "Mihaela"
+      },
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2603.12935",
+    "URL": "https://doi.org/10.48550/arXiv.2603.12935",
+    "volume": "abs/2603.12935",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2603-12935"
+  },
+  {
+    "id": "dblp_2025_de4c53a2",
+    "type": "article-journal",
+    "title": "The Quest for Reliable Metrics of Responsible AI",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2510.26007",
+    "URL": "https://doi.org/10.48550/arXiv.2510.26007",
+    "volume": "abs/2510.26007",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2510-26007"
+  },
+  {
+    "id": "dblp_2025_d08852b8",
+    "type": "paper-conference",
+    "title": "Stairway to Fairness: Connecting Group and Individual Fairness",
+    "container-title": "RecSys",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Scholer",
+        "given": "Falk"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3705328.3748031",
+    "URL": "https://doi.org/10.1145/3705328.3748031",
+    "volume": "abs/2508.21334",
+    "page": "677-683",
+    "publisher": "",
+    "_source_key": "conf/recsys/RampiselaMRSL25"
+  },
+  {
+    "id": "dblp_2025_3e805544",
+    "type": "article-journal",
+    "title": "Report from the 4th Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)",
+    "container-title": "SIGIR Forum",
+    "author": [
+      {
+        "family": "Trippas",
+        "given": "Johanne R."
+      },
+      {
+        "family": "Culpepper",
+        "given": "J. Shane"
+      },
+      {
+        "family": "Aliannejadi",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Allan",
+        "given": "James"
+      },
+      {
+        "family": "Amigó",
+        "given": "Enrique"
+      },
+      {
+        "family": "Arguello",
+        "given": "Jaime"
+      },
+      {
+        "family": "Azzopardi",
+        "given": "Leif"
+      },
+      {
+        "family": "Bailey",
+        "given": "Peter"
+      },
+      {
+        "family": "Callan",
+        "given": "Jamie"
+      },
+      {
+        "family": "Capra",
+        "given": "Rob"
+      },
+      {
+        "family": "Craswell",
+        "given": "Nick"
+      },
+      {
+        "family": "Croft",
+        "given": "W. Bruce"
+      },
+      {
+        "family": "Dalton",
+        "given": "Jeff"
+      },
+      {
+        "family": "Demartini",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Dietz",
+        "given": "Laura"
+      },
+      {
+        "family": "Dou",
+        "given": "Zhicheng"
+      },
+      {
+        "family": "Eickhoff",
+        "given": "Carsten"
+      },
+      {
+        "family": "Ekstrand",
+        "given": "Michael D."
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Fuhr",
+        "given": "Norbert"
+      },
+      {
+        "family": "Glowacka",
+        "given": "Dorota"
+      },
+      {
+        "family": "Hasibi",
+        "given": "Faegheh"
+      },
+      {
+        "family": "Hettiachchi",
+        "given": "Danula"
+      },
+      {
+        "family": "Jones",
+        "given": "Rosie"
+      },
+      {
+        "family": "Kamps",
+        "given": "Jaap"
+      },
+      {
+        "family": "Kando",
+        "given": "Noriko"
+      },
+      {
+        "family": "Karimi",
+        "given": "Sarvnaz"
+      },
+      {
+        "family": "Kato",
+        "given": "Makoto P."
+      },
+      {
+        "family": "Koopman",
+        "given": "Bevan"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      },
+      {
+        "family": "Ma",
+        "given": "Chenglong"
+      },
+      {
+        "family": "Mackenzie",
+        "given": "Joel"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Mao",
+        "given": "Jiaxin"
+      },
+      {
+        "family": "McKay",
+        "given": "Dana"
+      },
+      {
+        "family": "Mitra",
+        "given": "Bhaskar"
+      },
+      {
+        "family": "Mizzaro",
+        "given": "Stefano"
+      },
+      {
+        "family": "Moffat",
+        "given": "Alistair"
+      },
+      {
+        "family": "Mothe",
+        "given": "Josiane"
+      },
+      {
+        "family": "Ounis",
+        "given": "Iadh"
+      },
+      {
+        "family": "Rashidi",
+        "given": "Lida"
+      },
+      {
+        "family": "Ren",
+        "given": "Yongli"
+      },
+      {
+        "family": "Sanderson",
+        "given": "Mark"
+      },
+      {
+        "family": "Santos",
+        "given": "Rodrygo L. T."
+      },
+      {
+        "family": "Scholer",
+        "given": "Falk"
+      },
+      {
+        "family": "Shah",
+        "given": "Chirag"
+      },
+      {
+        "family": "Sitbon",
+        "given": "Laurianne"
+      },
+      {
+        "family": "Soboroff",
+        "given": "Ian"
+      },
+      {
+        "family": "Spina",
+        "given": "Damiano"
+      },
+      {
+        "family": "Thomas",
+        "given": "Paul"
+      },
+      {
+        "family": "Urbano",
+        "given": "Julián"
+      },
+      {
+        "family": "Vries",
+        "given": "Arjen P. de"
+      },
+      {
+        "family": "White",
+        "given": "Ryen"
+      },
+      {
+        "family": "Yuan",
+        "given": "Abby"
+      },
+      {
+        "family": "Zamani",
+        "given": "Hamed"
+      },
+      {
+        "family": "Zendel",
+        "given": "Oleg"
+      },
+      {
+        "family": "Zhang",
+        "given": "Min"
+      },
+      {
+        "family": "Zhuang",
+        "given": "Shengyao"
+      },
+      {
+        "family": "Zobel",
+        "given": "Justin"
+      },
+      {
+        "family": "Zuccon",
+        "given": "Guido"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3769733.3769739",
+    "URL": "https://doi.org/10.1145/3769733.3769739",
+    "volume": "59",
+    "page": "1-68",
+    "publisher": "",
+    "_source_key": "journals/sigir/TrippasCAAAAABCCCCDDDDE25"
+  },
+  {
+    "id": "dblp_2025_1735412b",
+    "type": "article-journal",
+    "title": "Recommending Target Actions Outside Sessions in the Data-poor Insurance Domain",
+    "container-title": "Trans. Recomm. Syst.",
+    "author": [
+      {
+        "family": "Bruun",
+        "given": "Simone Borg"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3606950",
+    "URL": "https://doi.org/10.1145/3606950",
+    "volume": "3",
+    "page": "2:1-2:24",
+    "publisher": "",
+    "_source_key": "journals/tors/BruunLM25"
+  },
+  {
+    "id": "dblp_2025_5111b1f0",
+    "type": "book",
+    "title": "Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2025, Padua, Italy, July 13-18, 2025",
+    "container-title": "SIGIR",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3726302",
+    "URL": "https://doi.org/10.1145/3726302",
+    "volume": "",
+    "page": "",
+    "publisher": "ACM",
+    "_source_key": "conf/sigir/2025"
+  },
+  {
+    "id": "dblp_2025_cb33fb37",
+    "type": "paper-conference",
+    "title": "Overview of the NTCIR-18 FairWeb-2 Task",
+    "container-title": "NTCIR",
+    "author": [
+      {
+        "family": "Tao",
+        "given": "Sijie"
+      },
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Wang",
+        "given": "Junjie"
+      },
+      {
+        "family": "Fang",
+        "given": "Hanpei"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuxiang"
+      },
+      {
+        "family": "Li",
+        "given": "Haitao"
+      },
+      {
+        "family": "Tu",
+        "given": "Yiteng"
+      },
+      {
+        "family": "Chen",
+        "given": "Nuo"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.20736/0002002030",
+    "URL": "https://doi.org/10.20736/0002002030",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/ntcir/TaoS0FZ0T0M25"
+  },
+  {
+    "id": "dblp_2025_e5f00dfd",
+    "type": "paper-conference",
+    "title": "Normalized AOPC: Fixing Misleading Faithfulness Metrics for Feature Attributions Explainability",
+    "container-title": "ACL",
+    "author": [
+      {
+        "family": "Edin",
+        "given": "Joakim"
+      },
+      {
+        "family": "Motzfeldt",
+        "given": "Andreas Geert"
+      },
+      {
+        "family": "Christensen",
+        "given": "Casper L."
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Maaløe",
+        "given": "Lars"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://aclanthology.org/2025.acl-long.86/",
+    "volume": "",
+    "page": "1715-1730",
+    "publisher": "",
+    "_source_key": "conf/acl/EdinMCRMM25"
+  },
+  {
+    "id": "dblp_2025_50a5ee6d",
+    "type": "paper-conference",
+    "title": "Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier",
+    "container-title": "WWW",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3696410.3714589",
+    "URL": "https://doi.org/10.1145/3696410.3714589",
+    "volume": "abs/2502.11921",
+    "page": "1548-1566",
+    "publisher": "",
+    "_source_key": "conf/www/RampiselaRML25"
+  },
+  {
+    "id": "dblp_2025_e84daaf8",
+    "type": "article-journal",
+    "title": "GIM: Improved Interpretability for Large Language Models",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Edin",
+        "given": "Joakim"
+      },
+      {
+        "family": "Csordás",
+        "given": "Róbert"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Wu",
+        "given": "Zhengxuan"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Huang",
+        "given": "Jing"
+      },
+      {
+        "family": "Maaløe",
+        "given": "Lars"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2505.17630",
+    "URL": "https://doi.org/10.48550/arXiv.2505.17630",
+    "volume": "abs/2505.17630",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2505-17630"
+  },
+  {
+    "id": "dblp_2025_46045522",
+    "type": "paper-conference",
+    "title": "Feature Attribution Explanations of Session-Based Recommendations",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Bruun",
+        "given": "Simone Borg"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-88711-6_4",
+    "URL": "https://doi.org/10.1007/978-3-031-88711-6_4",
+    "volume": "",
+    "page": "55-71",
+    "publisher": "",
+    "_source_key": "conf/ecir/BruunML25"
+  },
+  {
+    "id": "dblp_2025_0e25b6c5",
+    "type": "article-journal",
+    "title": "Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study",
+    "container-title": "Trans. Recomm. Syst.",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3631943",
+    "URL": "https://doi.org/10.1145/3631943",
+    "volume": "3",
+    "page": "18:1-18:52",
+    "publisher": "",
+    "_source_key": "journals/tors/RampiselaMRL25"
+  },
+  {
+    "id": "dblp_2025_3e6232eb",
+    "type": "paper-conference",
+    "title": "Eval4RAG: Workshop on Evaluation of Retrieval-Augmented Generation Systems",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Eugene"
+      },
+      {
+        "family": "Pradeep",
+        "given": "Ronak"
+      },
+      {
+        "family": "Zhang",
+        "given": "Dake"
+      },
+      {
+        "family": "MacAvaney",
+        "given": "Sean"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Aliannejadi",
+        "given": "Mohammad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-88720-8_51",
+    "URL": "https://doi.org/10.1007/978-3-031-88720-8_51",
+    "volume": "",
+    "page": "332-338",
+    "publisher": "",
+    "_source_key": "conf/ecir/YangPZMMA25"
+  },
+  {
+    "id": "dblp_2025_52b88a04",
+    "type": "paper-conference",
+    "title": "Decoding Affective States without Labels: Bimodal Image-brain Supervision",
+    "container-title": "ICMI",
+    "author": [
+      {
+        "family": "Gryshchuk",
+        "given": "Vadym"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3716553.3750786",
+    "URL": "https://doi.org/10.1145/3716553.3750786",
+    "volume": "",
+    "page": "25-34",
+    "publisher": "",
+    "_source_key": "conf/icmi/GryshchukMLR25"
+  },
+  {
+    "id": "dblp_2025_aa3d9b1f",
+    "type": "article-journal",
+    "title": "Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Hu",
+        "given": "Tianyi"
+      },
+      {
+        "family": "Morales-Garzón",
+        "given": "Andrea"
+      },
+      {
+        "family": "Zheng",
+        "given": "Jingyi"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Hershcovich",
+        "given": "Daniel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2507.21934",
+    "URL": "https://doi.org/10.48550/arXiv.2507.21934",
+    "volume": "abs/2507.21934",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2507-21934"
+  },
+  {
+    "id": "dblp_2025_57a85296",
+    "type": "paper-conference",
+    "title": "As easy as PIE: understanding when pruning causes language models to disagree",
+    "container-title": "NAACL (Findings)",
+    "author": [
+      {
+        "family": "Tropeano",
+        "given": "Pietro"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2025.findings-naacl.364",
+    "URL": "https://doi.org/10.18653/v1/2025.findings-naacl.364",
+    "volume": "abs/2503.21714",
+    "page": "6510-6536",
+    "publisher": "",
+    "_source_key": "conf/naacl/TropeanoMRL25"
+  },
+  {
+    "id": "dblp_2025_1ddde493",
+    "type": "paper-conference",
+    "title": "Are Representation Disentanglement and Interpretability Linked in Recommendation Models? - A Critical Review and Reproducibility Study",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Dervishaj",
+        "given": "Ervin"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-88717-8_4",
+    "URL": "https://doi.org/10.1007/978-3-031-88717-8_4",
+    "volume": "abs/2501.18805",
+    "page": "31-47",
+    "publisher": "",
+    "_source_key": "conf/ecir/DervishajRML25"
+  },
+  {
+    "id": "dblp_2025_4ba6dcc4",
+    "type": "paper-conference",
+    "title": "An EEG Dataset of Word-level Brain Responses for Semantic Text Relevance",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Gryshchuk",
+        "given": "Vadym"
+      },
+      {
+        "family": "Spapé",
+        "given": "Michiel M. A."
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3726302.3730289",
+    "URL": "https://doi.org/10.1145/3726302.3730289",
+    "volume": "",
+    "page": "3422-3432",
+    "publisher": "",
+    "_source_key": "conf/sigir/GryshchukSMLR25"
+  },
+  {
+    "id": "dblp_2025_235d59a8",
+    "type": "paper-conference",
+    "title": "A Reality Check on Context Utilisation for Retrieval-Augmented Generation",
+    "container-title": "ACL",
+    "author": [
+      {
+        "family": "Hagström",
+        "given": "Lovisa"
+      },
+      {
+        "family": "Marjanovic",
+        "given": "Sara Vera"
+      },
+      {
+        "family": "Yu",
+        "given": "Haeun"
+      },
+      {
+        "family": "Arora",
+        "given": "Arnav"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://aclanthology.org/2025.acl-long.968/",
+    "volume": "",
+    "page": "19691-19730",
+    "publisher": "",
+    "_source_key": "conf/acl/HagstromMYALMAA25"
+  },
+  {
+    "id": "dblp_2025_cd914fd6",
+    "type": "paper-conference",
+    "title": "\"We Share Our Code Online\": Why This Is Not Enough to Ensure Reproducibility and Progress in Recommender Systems Research",
+    "container-title": "RecSys",
+    "author": [
+      {
+        "family": "Shehzad",
+        "given": "Faisal"
+      },
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Jannach",
+        "given": "Dietmar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1145/3705328.3748157",
+    "URL": "https://doi.org/10.1145/3705328.3748157",
+    "volume": "",
+    "page": "884-893",
+    "publisher": "",
+    "_source_key": "conf/recsys/Shehzad0MJ25"
+  },
+  {
+    "id": "dblp_2024_d5b5fcbe",
+    "type": "paper-conference",
+    "title": "Toward Evaluating the Reproducibility of Information Retrieval Systems with Simulated Users",
+    "container-title": "ACM-REP",
+    "author": [
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3641525.3663619",
+    "URL": "https://doi.org/10.1145/3641525.3663619",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/acmrep/0002M24"
+  },
+  {
+    "id": "dblp_2024_948792d4",
+    "type": "article-journal",
+    "title": "Special Section on Efficiency in Neural Information Retrieval",
+    "container-title": "ACM Trans. Inf. Syst.",
+    "author": [
+      {
+        "family": "Bruch",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Lucchese",
+        "given": "Claudio"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Nardini",
+        "given": "Franco Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3641203",
+    "URL": "https://doi.org/10.1145/3641203",
+    "volume": "42",
+    "page": "113:1-113:4",
+    "publisher": "",
+    "_source_key": "journals/tois/BruchLMN24"
+  },
+  {
+    "id": "dblp_2024_f1d099aa",
+    "type": "article-journal",
+    "title": "Report on the SIGIR 2024 Session on Women in IR (WIR)",
+    "container-title": "SIGIR Forum",
+    "author": [
+      {
+        "family": "Goharian",
+        "given": "Nazli"
+      },
+      {
+        "family": "Hasibi",
+        "given": "Faegheh"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Verberne",
+        "given": "Suzan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3722449.3722459",
+    "URL": "https://doi.org/10.1145/3722449.3722459",
+    "volume": "58",
+    "page": "1-2",
+    "publisher": "",
+    "_source_key": "journals/sigir/GoharianHMV24"
+  },
+  {
+    "id": "dblp_2024_1735412b",
+    "type": "article-journal",
+    "title": "Recommending Target Actions Outside Sessions in the Data-poor Insurance Domain",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Bruun",
+        "given": "Simone Borg"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2403.00368",
+    "URL": "https://doi.org/10.48550/arXiv.2403.00368",
+    "volume": "abs/2403.00368",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2403-00368"
+  },
+  {
+    "id": "dblp_2024_e1fa72f4",
+    "type": "paper-conference",
+    "title": "Query Augmentation with Brain Signals",
+    "container-title": "ACM Multimedia",
+    "author": [
+      {
+        "family": "Ye",
+        "given": "Ziyi"
+      },
+      {
+        "family": "Zhan",
+        "given": "Jingtao"
+      },
+      {
+        "family": "Ai",
+        "given": "Qingyao"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      },
+      {
+        "family": "Rijke",
+        "given": "Maarten de"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3664647.3681658",
+    "URL": "https://doi.org/10.1145/3664647.3681658",
+    "volume": "",
+    "page": "7561-7570",
+    "publisher": "",
+    "_source_key": "conf/mm/YeZA0RLR24"
+  },
+  {
+    "id": "dblp_2024_0b6a8be7",
+    "type": "article-journal",
+    "title": "Query Augmentation by Decoding Semantics from Brain Signals",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Ye",
+        "given": "Ziyi"
+      },
+      {
+        "family": "Zhan",
+        "given": "Jingtao"
+      },
+      {
+        "family": "Ai",
+        "given": "Qingyao"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      },
+      {
+        "family": "Rijke",
+        "given": "Maarten de"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2402.15708",
+    "URL": "https://doi.org/10.48550/arXiv.2402.15708",
+    "volume": "abs/2402.15708",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2402-15708"
+  },
+  {
+    "id": "dblp_2024_9db0631c",
+    "type": "article-journal",
+    "title": "On the Ordering of Pooled Web Pages, Gold Assessments, and Bronze Assessments",
+    "container-title": "ACM Trans. Inf. Syst.",
+    "author": [
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Tao",
+        "given": "Sijie"
+      },
+      {
+        "family": "Chen",
+        "given": "Nuo"
+      },
+      {
+        "family": "Li",
+        "given": "Yujing"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Chu",
+        "given": "Zhumin"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3600227",
+    "URL": "https://doi.org/10.1145/3600227",
+    "volume": "42",
+    "page": "23:1-23:31",
+    "publisher": "",
+    "_source_key": "journals/tois/SakaiTCLMCF24"
+  },
+  {
+    "id": "dblp_2024_88d50b5c",
+    "type": "article-journal",
+    "title": "Normalized AOPC: Fixing Misleading Faithfulness Metrics for Feature Attribution Explainability",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Edin",
+        "given": "Joakim"
+      },
+      {
+        "family": "Motzfeldt",
+        "given": "Andreas Geert"
+      },
+      {
+        "family": "Christensen",
+        "given": "Casper L."
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Maaløe",
+        "given": "Lars"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2408.08137",
+    "URL": "https://doi.org/10.48550/arXiv.2408.08137",
+    "volume": "abs/2408.08137",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2408-08137"
+  },
+  {
+    "id": "dblp_2024_d5419824",
+    "type": "article-journal",
+    "title": "Joint Extraction and Classification of Danish Competences for Job Matching",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2410.22103",
+    "URL": "https://doi.org/10.48550/arXiv.2410.22103",
+    "volume": "abs/2410.22103",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2410-22103"
+  },
+  {
+    "id": "dblp_2024_139749b3",
+    "type": "paper-conference",
+    "title": "Investigating the Impact of Model Instability on Explanations and Uncertainty",
+    "container-title": "ACL (Findings)",
+    "author": [
+      {
+        "family": "Marjanovic",
+        "given": "Sara"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2024.findings-acl.705",
+    "URL": "https://doi.org/10.18653/v1/2024.findings-acl.705",
+    "volume": "abs/2402.13006",
+    "page": "11854-11879",
+    "publisher": "",
+    "_source_key": "conf/acl/MarjanovicAL24"
+  },
+  {
+    "id": "dblp_2024_b473f237",
+    "type": "article-journal",
+    "title": "From Internal Conflict to Contextual Adaptation of Language Models",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Marjanovic",
+        "given": "Sara Vera"
+      },
+      {
+        "family": "Yu",
+        "given": "Haeun"
+      },
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2407.17023",
+    "URL": "https://doi.org/10.48550/arXiv.2407.17023",
+    "volume": "abs/2407.17023",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2407-17023"
+  },
+  {
+    "id": "dblp_2024_0a75790f",
+    "type": "chapter",
+    "title": "Evaluation of IR Systems",
+    "container-title": "Information Retrieval: Advanced Topics and Techniques",
+    "author": [
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3674127.3674132",
+    "URL": "https://doi.org/10.1145/3674127.3674132",
+    "volume": "",
+    "page": "111-191",
+    "publisher": "",
+    "_source_key": "books/acm/24/0001M24"
+  },
+  {
+    "id": "dblp_2024_73db1f2b",
+    "type": "paper-conference",
+    "title": "DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models",
+    "container-title": "EMNLP (Findings)",
+    "author": [
+      {
+        "family": "Marjanovic",
+        "given": "Sara"
+      },
+      {
+        "family": "Yu",
+        "given": "Haeun"
+      },
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2024.findings-emnlp.838",
+    "URL": "https://doi.org/10.18653/v1/2024.findings-emnlp.838",
+    "volume": "",
+    "page": "14346-14360",
+    "publisher": "",
+    "_source_key": "conf/emnlp/MarjanovicYAMLA24"
+  },
+  {
+    "id": "dblp_2024_3a9f7753",
+    "type": "article-journal",
+    "title": "Digital-analog hybrid matrix multiplication processor for optical neural networks",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Meng",
+        "given": "Xiansong"
+      },
+      {
+        "family": "Kong",
+        "given": "Deming"
+      },
+      {
+        "family": "Kim",
+        "given": "Kwangwoong"
+      },
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Dong",
+        "given": "Po"
+      },
+      {
+        "family": "Cox",
+        "given": "Ingemar J."
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Hu",
+        "given": "Hao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2401.15061",
+    "URL": "https://doi.org/10.48550/arXiv.2401.15061",
+    "volume": "abs/2401.15061",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2401-15061"
+  },
+  {
+    "id": "dblp_2024_80fd0df4",
+    "type": "paper-conference",
+    "title": "Dataset and Models for Item Recommendation Using Multi-Modal User Interactions",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Bruun",
+        "given": "Simone Borg"
+      },
+      {
+        "family": "Balog",
+        "given": "Krisztian"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3626772.3657881",
+    "URL": "https://doi.org/10.1145/3626772.3657881",
+    "volume": "abs/2405.04246",
+    "page": "709-718",
+    "publisher": "",
+    "_source_key": "conf/sigir/BruunBM24"
+  },
+  {
+    "id": "dblp_2024_59a1d16b",
+    "type": "paper-conference",
+    "title": "Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1145/3626772.3657832",
+    "URL": "https://doi.org/10.1145/3626772.3657832",
+    "volume": "abs/2405.18276",
+    "page": "271-281",
+    "publisher": "",
+    "_source_key": "conf/sigir/RampiselaRML24"
+  },
+  {
+    "id": "dblp_2024_d7a078f0",
+    "type": "paper-conference",
+    "title": "Bridging Cultures in the Kitchen: A Framework and Benchmark for Cross-Cultural Recipe Retrieval",
+    "container-title": "EMNLP",
+    "author": [
+      {
+        "family": "Hu",
+        "given": "Tianyi"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Hershcovich",
+        "given": "Daniel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2024.emnlp-main.61",
+    "URL": "https://doi.org/10.18653/v1/2024.emnlp-main.61",
+    "volume": "",
+    "page": "1068-1080",
+    "publisher": "",
+    "_source_key": "conf/emnlp/HuMH24"
+  },
+  {
+    "id": "dblp_2024_7c2ebd84",
+    "type": "paper-conference",
+    "title": "An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records",
+    "container-title": "EMNLP",
+    "author": [
+      {
+        "family": "Edin",
+        "given": "Joakim"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Maaløe",
+        "given": "Lars"
+      },
+      {
+        "family": "Borgholt",
+        "given": "Lasse"
+      },
+      {
+        "family": "Havtorn",
+        "given": "Jakob D."
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2024.emnlp-main.280",
+    "URL": "https://doi.org/10.18653/v1/2024.emnlp-main.280",
+    "volume": "abs/2406.08958",
+    "page": "4869-4890",
+    "publisher": "",
+    "_source_key": "conf/emnlp/EdinMMBHR24"
+  },
+  {
+    "id": "dblp_2024_235d59a8",
+    "type": "article-journal",
+    "title": "A Reality Check on Context Utilisation for Retrieval-Augmented Generation",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Hagström",
+        "given": "Lovisa"
+      },
+      {
+        "family": "Marjanovic",
+        "given": "Sara Vera"
+      },
+      {
+        "family": "Yu",
+        "given": "Haeun"
+      },
+      {
+        "family": "Arora",
+        "given": "Arnav"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2412.17031",
+    "URL": "https://doi.org/10.48550/arXiv.2412.17031",
+    "volume": "abs/2412.17031",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2412-17031"
+  },
+  {
+    "id": "dblp_2023_4d918603",
+    "type": "article-journal",
+    "title": "Report on the Dagstuhl Seminar on Frontiers of Information Access Experimentation for Research and Education",
+    "container-title": "SIGIR Forum",
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "Christine"
+      },
+      {
+        "family": "Carterette",
+        "given": "Ben"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Fuhr",
+        "given": "Norbert"
+      },
+      {
+        "family": "Beel",
+        "given": "Joeran"
+      },
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Clarke",
+        "given": "Charles L. A."
+      },
+      {
+        "family": "Crescenzi",
+        "given": "Anita"
+      },
+      {
+        "family": "Demartini",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Nunzio",
+        "given": "Giorgio Maria Di"
+      },
+      {
+        "family": "Dietz",
+        "given": "Laura"
+      },
+      {
+        "family": "Faggioli",
+        "given": "Guglielmo"
+      },
+      {
+        "family": "Ferwerda",
+        "given": "Bruce"
+      },
+      {
+        "family": "Fröbe",
+        "given": "Maik"
+      },
+      {
+        "family": "Hagen",
+        "given": "Matthias"
+      },
+      {
+        "family": "Hanbury",
+        "given": "Allan"
+      },
+      {
+        "family": "Hauff",
+        "given": "Claudia"
+      },
+      {
+        "family": "Jannach",
+        "given": "Dietmar"
+      },
+      {
+        "family": "Kando",
+        "given": "Noriko"
+      },
+      {
+        "family": "Kanoulas",
+        "given": "Evangelos"
+      },
+      {
+        "family": "Knijnenburg",
+        "given": "Bart P."
+      },
+      {
+        "family": "Kruschwitz",
+        "given": "Udo"
+      },
+      {
+        "family": "Li",
+        "given": "Meijie"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Michiels",
+        "given": "Lien"
+      },
+      {
+        "family": "Papenmeier",
+        "given": "Andrea"
+      },
+      {
+        "family": "Potthast",
+        "given": "Martin"
+      },
+      {
+        "family": "Rosso",
+        "given": "Paolo"
+      },
+      {
+        "family": "Said",
+        "given": "Alan"
+      },
+      {
+        "family": "Schaer",
+        "given": "Philipp"
+      },
+      {
+        "family": "Seifert",
+        "given": "Christin"
+      },
+      {
+        "family": "Spina",
+        "given": "Damiano"
+      },
+      {
+        "family": "Stein",
+        "given": "Benno"
+      },
+      {
+        "family": "Tintarev",
+        "given": "Nava"
+      },
+      {
+        "family": "Urbano",
+        "given": "Julián"
+      },
+      {
+        "family": "Wachsmuth",
+        "given": "Henning"
+      },
+      {
+        "family": "Willemsen",
+        "given": "Martijn C."
+      },
+      {
+        "family": "Zobel",
+        "given": "Justin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1145/3636341.3636351",
+    "URL": "https://doi.org/10.1145/3636341.3636351",
+    "volume": "57",
+    "page": "7:1-7:28",
+    "publisher": "",
+    "_source_key": "journals/sigir/BauerCFFBBCCDNDFFFHHHJKKKKLMMPPRS23"
+  },
+  {
+    "id": "dblp_2023_99aa4c3f",
+    "type": "paper-conference",
+    "title": "ReNeuIR at SIGIR 2023: The Second Workshop on Reaching Efficiency in Neural Information Retrieval",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Bruch",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Mackenzie",
+        "given": "Joel"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Nardini",
+        "given": "Franco Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1145/3539618.3591922",
+    "URL": "https://doi.org/10.1145/3539618.3591922",
+    "volume": "",
+    "page": "3456-3459",
+    "publisher": "",
+    "_source_key": "conf/sigir/BruchMMN23"
+  },
+  {
+    "id": "dblp_2023_92373d21",
+    "type": "paper-conference",
+    "title": "Overview of the NTCIR-17 FairWeb-1 Task",
+    "container-title": "NTCIR",
+    "author": [
+      {
+        "family": "Tao",
+        "given": "Sijie"
+      },
+      {
+        "family": "Chen",
+        "given": "Nuo"
+      },
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Chu",
+        "given": "Zhumin"
+      },
+      {
+        "family": "Arai",
+        "given": "Hiromi"
+      },
+      {
+        "family": "Soboroff",
+        "given": "Ian"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.20736/0002001318",
+    "URL": "https://doi.org/10.20736/0002001318",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/ntcir/Tao0SCAS0M23"
+  },
+  {
+    "id": "dblp_2023_a7f225c5",
+    "type": "article-journal",
+    "title": "Language Generation from Human Brain Activities",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Ye",
+        "given": "Ziyi"
+      },
+      {
+        "family": "Ai",
+        "given": "Qingyao"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      },
+      {
+        "family": "Zhang",
+        "given": "Min"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2311.09889",
+    "URL": "https://doi.org/10.48550/arXiv.2311.09889",
+    "volume": "abs/2311.09889",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2311-09889"
+  },
+  {
+    "id": "dblp_2023_d5419824",
+    "type": "paper-conference",
+    "title": "Joint Extraction and Classification of Danish Competences for Job Matching",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-28238-6_38",
+    "URL": "https://doi.org/10.1007/978-3-031-28238-6_38",
+    "volume": "",
+    "page": "475-483",
+    "publisher": "",
+    "_source_key": "conf/ecir/LiL23"
+  },
+  {
+    "id": "dblp_2023_c370b027",
+    "type": "paper-conference",
+    "title": "Graph-Based Recommendation for Sparse and Heterogeneous User Interactions",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Bruun",
+        "given": "Simone Borg"
+      },
+      {
+        "family": "Lesniak",
+        "given": "Kacper Kenji"
+      },
+      {
+        "family": "Biasini",
+        "given": "Mirko"
+      },
+      {
+        "family": "Carmignani",
+        "given": "Vittorio"
+      },
+      {
+        "family": "Filianos",
+        "given": "Panagiotis"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-28244-7_12",
+    "URL": "https://doi.org/10.1007/978-3-031-28244-7_12",
+    "volume": "abs/2301.11009",
+    "page": "182-199",
+    "publisher": "",
+    "_source_key": "conf/ecir/BruunLBCFLM23"
+  },
+  {
+    "id": "dblp_2023_ede10418",
+    "type": "paper-conference",
+    "title": "Faithfulness Tests for Natural Language Explanations",
+    "container-title": "ACL",
+    "author": [
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Camburu",
+        "given": "Oana-Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Lukasiewicz",
+        "given": "Thomas"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2023.acl-short.25",
+    "URL": "https://doi.org/10.18653/v1/2023.acl-short.25",
+    "volume": "abs/2305.18029",
+    "page": "283-294",
+    "publisher": "",
+    "_source_key": "conf/acl/AtanasovaCLLSA23"
+  },
+  {
+    "id": "dblp_2023_0e25b6c5",
+    "type": "article-journal",
+    "title": "Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Rampisela",
+        "given": "Theresia Veronika"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2311.01013",
+    "URL": "https://doi.org/10.48550/arXiv.2311.01013",
+    "volume": "abs/2311.01013",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2311-01013"
+  },
+  {
+    "id": "dblp_2023_b06b1734",
+    "type": "paper-conference",
+    "title": "Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Edin",
+        "given": "Joakim"
+      },
+      {
+        "family": "Junge",
+        "given": "Alexander"
+      },
+      {
+        "family": "Havtorn",
+        "given": "Jakob D."
+      },
+      {
+        "family": "Borgholt",
+        "given": "Lasse"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Ruotsalo",
+        "given": "Tuukka"
+      },
+      {
+        "family": "Maaløe",
+        "given": "Lars"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1145/3539618.3591918",
+    "URL": "https://doi.org/10.1145/3539618.3591918",
+    "volume": "abs/2304.10909",
+    "page": "2572-2582",
+    "publisher": "",
+    "_source_key": "conf/sigir/EdinJHBMRM23"
+  },
+  {
+    "id": "dblp_2023_c38aa78d",
+    "type": "article-journal",
+    "title": "An in-depth investigation on the behavior of measures to quantify reproducibility",
+    "container-title": "Inf. Process. Manag.",
+    "author": [
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Schaer",
+        "given": "Philipp"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ipm.2023.103332",
+    "URL": "https://doi.org/10.1016/j.ipm.2023.103332",
+    "volume": "60",
+    "page": "103332",
+    "publisher": "",
+    "_source_key": "journals/ipm/MaistroBSF23"
+  },
+  {
+    "id": "dblp_2023_764b6a8b",
+    "type": "book",
+    "title": "Advances in Information Retrieval - 45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2-6, 2023, Proceedings, Part I",
+    "container-title": "ECIR",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-28244-7",
+    "URL": "https://doi.org/10.1007/978-3-031-28244-7",
+    "volume": "13980",
+    "page": "",
+    "publisher": "Springer",
+    "_source_key": "conf/ecir/2023-1"
+  },
+  {
+    "id": "dblp_2023_72821e5e",
+    "type": "article-journal",
+    "title": "Adapting Pre-trained Language Models for Quantum Natural Language Processing",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Wang",
+        "given": "Benyou"
+      },
+      {
+        "family": "Zhu",
+        "given": "Yudong"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Liu",
+        "given": "Qun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2302.13812",
+    "URL": "https://doi.org/10.48550/arXiv.2302.13812",
+    "volume": "abs/2302.13812",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2302-13812"
+  },
+  {
+    "id": "dblp_2022_dda8b159",
+    "type": "article-journal",
+    "title": "Template-based Recruitment Email Generation For Job Recommendation",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2212.02885",
+    "URL": "https://doi.org/10.48550/arXiv.2212.02885",
+    "volume": "abs/2212.02885",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2212-02885"
+  },
+  {
+    "id": "dblp_2022_45562fa8",
+    "type": "article-journal",
+    "title": "repro_eval: A Python Interface to Reproducibility Measures of System-oriented IR Experiments",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Schaer",
+        "given": "Philipp"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://arxiv.org/abs/2201.07599",
+    "volume": "abs/2201.07599",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2201-07599"
+  },
+  {
+    "id": "dblp_2022_3128c21f",
+    "type": "article-journal",
+    "title": "Report on the SIGIR 2022 Session on Women in IR (WIR)",
+    "container-title": "SIGIR Forum",
+    "author": [
+      {
+        "family": "Goharian",
+        "given": "Nazli"
+      },
+      {
+        "family": "Hasibi",
+        "given": "Faegheh"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Verberne",
+        "given": "Suzan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1145/3582900.3582914",
+    "URL": "https://doi.org/10.1145/3582900.3582914",
+    "volume": "56",
+    "page": "10:1-10:2",
+    "publisher": "",
+    "_source_key": "journals/sigir/GoharianHMV22"
+  },
+  {
+    "id": "dblp_2022_e1338cca",
+    "type": "article-journal",
+    "title": "Report on the Malawi Data Science Bootcamp 2021",
+    "container-title": "SIGKDD Explor.",
+    "author": [
+      {
+        "family": "Moyo",
+        "given": "Reuben"
+      },
+      {
+        "family": "Ndebvu",
+        "given": "Stanley"
+      },
+      {
+        "family": "Zimba",
+        "given": "Michael"
+      },
+      {
+        "family": "Dybdal",
+        "given": "Martin"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Bach",
+        "given": "Benjamin Balder"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1145/3544903.3544908",
+    "URL": "https://doi.org/10.1145/3544903.3544908",
+    "volume": "24",
+    "page": "46-48",
+    "publisher": "",
+    "_source_key": "journals/sigkdd/MoyoNZDMB22"
+  },
+  {
+    "id": "dblp_2022_fdb5a478",
+    "type": "article-journal",
+    "title": "Principled Multi-Aspect Evaluation Measures of Rankings",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2212.00492",
+    "URL": "https://doi.org/10.48550/arXiv.2212.00492",
+    "volume": "abs/2212.00492",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2212-00492"
+  },
+  {
+    "id": "dblp_2022_66b2155d",
+    "type": "paper-conference",
+    "title": "Overview of the NTCIR-16 We Want Web with CENTRE (WWW-4) Task",
+    "container-title": "NTCIR",
+    "author": [
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Tao",
+        "given": "Sijie"
+      },
+      {
+        "family": "Chu",
+        "given": "Zhumin"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Li",
+        "given": "Yujing"
+      },
+      {
+        "family": "Chen",
+        "given": "Nuo"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Wang",
+        "given": "Junjie"
+      },
+      {
+        "family": "Soboroff",
+        "given": "Ian"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/01-NTCIR16-OV-WWW-SakaiT.pdf",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/ntcir/SakaiTCML000S022"
+  },
+  {
+    "id": "dblp_2022_8e0f8cef",
+    "type": "paper-conference",
+    "title": "Learning Recommendations from User Actions in the Item-poor Insurance Domain",
+    "container-title": "RecSys",
+    "author": [
+      {
+        "family": "Bruun",
+        "given": "Simone Borg"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1145/3523227.3546775",
+    "URL": "https://doi.org/10.1145/3523227.3546775",
+    "volume": "abs/2211.15360",
+    "page": "113-123",
+    "publisher": "",
+    "_source_key": "conf/recsys/BruunML22"
+  },
+  {
+    "id": "dblp_2022_fe647a2a",
+    "type": "article-journal",
+    "title": "FullBrain: a Social E-learning Platform",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Biasini",
+        "given": "Mirko"
+      },
+      {
+        "family": "Carmignani",
+        "given": "Vittorio"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Filianos",
+        "given": "Panagiotis"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Nunzio",
+        "given": "Giorgio Maria Di"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2212.01387",
+    "URL": "https://doi.org/10.48550/arXiv.2212.01387",
+    "volume": "abs/2212.01387",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2212-01387"
+  },
+  {
+    "id": "dblp_2022_5c857a49",
+    "type": "article-journal",
+    "title": "Fact Checking with Insufficient Evidence",
+    "container-title": "Trans. Assoc. Comput. Linguistics",
+    "author": [
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1162/tacl_a_00486",
+    "URL": "https://doi.org/10.1162/tacl_a_00486",
+    "volume": "10",
+    "page": "746-763",
+    "publisher": "",
+    "_source_key": "journals/tacl/AtanasovaSLA22"
+  },
+  {
+    "id": "dblp_2022_2ab9727e",
+    "type": "paper-conference",
+    "title": "Diagnostics-Guided Explanation Generation",
+    "container-title": "AAAI",
+    "author": [
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1609/aaai.v36i10.21287",
+    "URL": "https://doi.org/10.1609/aaai.v36i10.21287",
+    "volume": "",
+    "page": "10445-10453",
+    "publisher": "",
+    "_source_key": "conf/aaai/AtanasovaSLA22"
+  },
+  {
+    "id": "dblp_2022_8e01d486",
+    "type": "paper-conference",
+    "title": "Crowdsourcing Controller - Utilizing Reliable Agents in a Multiplayer Game",
+    "container-title": "CoG",
+    "author": [
+      {
+        "family": "Lesniak",
+        "given": "Kacper Kenji"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1109/CoG51982.2022.9893597",
+    "URL": "https://doi.org/10.1109/CoG51982.2022.9893597",
+    "volume": "abs/2212.02256",
+    "page": "64-71",
+    "publisher": "",
+    "_source_key": "conf/cig/LesniakM22"
+  },
+  {
+    "id": "dblp_2022_b6067b62",
+    "type": "article-journal",
+    "title": "Corrected Evaluation Results of the NTCIR WWW-2, WWW-3, and WWW-4 English Subtasks",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Tao",
+        "given": "Sijie"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Chu",
+        "given": "Zhumin"
+      },
+      {
+        "family": "Li",
+        "given": "Yujing"
+      },
+      {
+        "family": "Chen",
+        "given": "Nuo"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Wang",
+        "given": "Junjie"
+      },
+      {
+        "family": "Soboroff",
+        "given": "Ian"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.48550/arXiv.2210.10266",
+    "URL": "https://doi.org/10.48550/arXiv.2210.10266",
+    "volume": "abs/2210.10266",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2210-10266"
+  },
+  {
+    "id": "dblp_2022_dadb6c36",
+    "type": "article-journal",
+    "title": "Complex-valued Neural Network-based Quantum Language Models",
+    "container-title": "ACM Trans. Inf. Syst.",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Peng"
+      },
+      {
+        "family": "Hui",
+        "given": "Wenjie"
+      },
+      {
+        "family": "Wang",
+        "given": "Benyou"
+      },
+      {
+        "family": "Zhao",
+        "given": "Donghao"
+      },
+      {
+        "family": "Song",
+        "given": "Dawei"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1145/3505138",
+    "URL": "https://doi.org/10.1145/3505138",
+    "volume": "40",
+    "page": "84:1-84:31",
+    "publisher": "",
+    "_source_key": "journals/tois/ZhangHWZSLS22"
+  },
+  {
+    "id": "dblp_2022_8b07787c",
+    "type": "paper-conference",
+    "title": "Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding",
+    "container-title": "NAACL-HLT",
+    "author": [
+      {
+        "family": "Jia",
+        "given": "Ao"
+      },
+      {
+        "family": "He",
+        "given": "Yu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yazhou"
+      },
+      {
+        "family": "Uprety",
+        "given": "Sagar"
+      },
+      {
+        "family": "Song",
+        "given": "Dawei"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2022.naacl-main.108",
+    "URL": "https://doi.org/10.18653/v1/2022.naacl-main.108",
+    "volume": "",
+    "page": "1512-1522",
+    "publisher": "",
+    "_source_key": "conf/naacl/JiaHZU0L22"
+  },
+  {
+    "id": "dblp_2021_50a62d1d",
+    "type": "article-journal",
+    "title": "What makes the difference? An empirical comparison of fusion strategies for multimodal language analysis",
+    "container-title": "Inf. Fusion",
+    "author": [
+      {
+        "family": "Gkoumas",
+        "given": "Dimitris"
+      },
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Yu",
+        "given": "Yijun"
+      },
+      {
+        "family": "Song",
+        "given": "Dawei"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.inffus.2020.09.005",
+    "URL": "https://doi.org/10.1016/j.inffus.2020.09.005",
+    "volume": "66",
+    "page": "184-197",
+    "publisher": "",
+    "_source_key": "journals/inffus/GkoumasLLYS21"
+  },
+  {
+    "id": "dblp_2021_8e3a3b67",
+    "type": "paper-conference",
+    "title": "Unsupervised Multi-Index Semantic Hashing",
+    "container-title": "WWW",
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Alstrup",
+        "given": "Stephen"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1145/3442381.3450014",
+    "URL": "https://doi.org/10.1145/3442381.3450014",
+    "volume": "abs/2103.14460",
+    "page": "2879-2889",
+    "publisher": "",
+    "_source_key": "conf/www/Hansen0SAL21"
+  },
+  {
+    "id": "dblp_2021_7893a651",
+    "type": "article-journal",
+    "title": "University of Copenhagen Participation in TREC Health Misinformation Track 2020",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Wright",
+        "given": "Dustin Brandon"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://arxiv.org/abs/2103.02462",
+    "volume": "abs/2103.02462",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2103-02462"
+  },
+  {
+    "id": "dblp_2021_45562fa8",
+    "type": "paper-conference",
+    "title": "repro_eval: A Python Interface to Reproducibility Measures of System-Oriented IR Experiments",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Schaer",
+        "given": "Philipp"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-030-72240-1_51",
+    "URL": "https://doi.org/10.1007/978-3-030-72240-1_51",
+    "volume": "",
+    "page": "481-486",
+    "publisher": "",
+    "_source_key": "conf/ecir/BreuerFMS21"
+  },
+  {
+    "id": "dblp_2021_01680643",
+    "type": "article-journal",
+    "title": "Report on the 12th conference and labs of the evaluation forum (CLEF 2021): experimental IR meets multilinguality, multimodality, and interaction",
+    "container-title": "SIGIR Forum",
+    "author": [
+      {
+        "family": "Candan",
+        "given": "K. Selçuk"
+      },
+      {
+        "family": "Faggioli",
+        "given": "Guglielmo"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Goeuriot",
+        "given": "Lorraine"
+      },
+      {
+        "family": "Ionescu",
+        "given": "Bogdan"
+      },
+      {
+        "family": "Joly",
+        "given": "Alexis"
+      },
+      {
+        "family": "Larsen",
+        "given": "Birger"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Müller",
+        "given": "Henning"
+      },
+      {
+        "family": "Piroi",
+        "given": "Florina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1145/3527546.3527564",
+    "URL": "https://doi.org/10.1145/3527546.3527564",
+    "volume": "55",
+    "page": "15:1-15:12",
+    "publisher": "",
+    "_source_key": "journals/sigir/CandanFFGIJLMMP21"
+  },
+  {
+    "id": "dblp_2021_e3a9cbd6",
+    "type": "article-journal",
+    "title": "Quantum-inspired multimodal fusion for video sentiment analysis",
+    "container-title": "Inf. Fusion",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Gkoumas",
+        "given": "Dimitris"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Melucci",
+        "given": "Massimo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.inffus.2020.08.006",
+    "URL": "https://doi.org/10.1016/j.inffus.2020.08.006",
+    "volume": "65",
+    "page": "58-71",
+    "publisher": "",
+    "_source_key": "journals/inffus/LiGLM21"
+  },
+  {
+    "id": "dblp_2021_5833ee7c",
+    "type": "paper-conference",
+    "title": "Projected Hamming Dissimilarity for Bit-Level Importance Coding in Collaborative Filtering",
+    "container-title": "WWW",
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1145/3442381.3450011",
+    "URL": "https://doi.org/10.1145/3442381.3450011",
+    "volume": "abs/2103.14455",
+    "page": "261-269",
+    "publisher": "",
+    "_source_key": "conf/www/0004HSL21"
+  },
+  {
+    "id": "dblp_2021_3eed8d52",
+    "type": "book",
+    "title": "Proceedings of the Working Notes of CLEF 2021 - Conference and Labs of the Evaluation Forum, Bucharest, Romania, September 21st - to - 24th, 2021",
+    "container-title": "CLEF (Working Notes)",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://ceur-ws.org/Vol-2936",
+    "volume": "2936",
+    "page": "",
+    "publisher": "CEUR-WS.org",
+    "_source_key": "conf/clef/2021w"
+  },
+  {
+    "id": "dblp_2021_fdb5a478",
+    "type": "paper-conference",
+    "title": "Principled Multi-Aspect Evaluation Measures of Rankings",
+    "container-title": "CIKM",
+    "author": [
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1145/3459637.3482287",
+    "URL": "https://doi.org/10.1145/3459637.3482287",
+    "volume": "",
+    "page": "1232-1242",
+    "publisher": "",
+    "_source_key": "conf/cikm/MaistroLSL21"
+  },
+  {
+    "id": "dblp_2021_c79c23d5",
+    "type": "paper-conference",
+    "title": "Overview of the TREC 2021 Health Misinformation Track",
+    "container-title": "TREC",
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "Charles L. A."
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Smucker",
+        "given": "Mark D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://trec.nist.gov/pubs/trec30/papers/Overview-HM.pdf",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/trec/ClarkeMS21"
+  },
+  {
+    "id": "dblp_2021_a8ccbe37",
+    "type": "paper-conference",
+    "title": "On Position Embeddings in BERT",
+    "container-title": "ICLR",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Benyou"
+      },
+      {
+        "family": "Shang",
+        "given": "Lifeng"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Jiang",
+        "given": "Xin"
+      },
+      {
+        "family": "Yang",
+        "given": "Hao"
+      },
+      {
+        "family": "Liu",
+        "given": "Qun"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://openreview.net/forum?id=onxoVA9FxMw",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/iclr/WangSLJYLS21"
+  },
+  {
+    "id": "dblp_2021_83164c74",
+    "type": "paper-conference",
+    "title": "Multi-head Self-attention with Role-Guided Masks",
+    "container-title": "ECIR",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Dongsheng"
+      },
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-030-72240-1_45",
+    "URL": "https://doi.org/10.1007/978-3-030-72240-1_45",
+    "volume": "",
+    "page": "432-439",
+    "publisher": "",
+    "_source_key": "conf/ecir/WangHLHMSL21"
+  },
+  {
+    "id": "dblp_2021_fe647a2a",
+    "type": "paper-conference",
+    "title": "FullBrain: a Social E-learning Platform",
+    "container-title": "IRCDL",
+    "author": [
+      {
+        "family": "Biasini",
+        "given": "Mirko"
+      },
+      {
+        "family": "Carmignani",
+        "given": "Vittorio"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Filianos",
+        "given": "Panagiotis"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Nunzio",
+        "given": "Giorgio Maria Di"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://ceur-ws.org/Vol-2816/paper3.pdf",
+    "volume": "",
+    "page": "25-41",
+    "publisher": "",
+    "_source_key": "conf/ircdl/BiasiniC0FMN21"
+  },
+  {
+    "id": "dblp_2021_053f8016",
+    "type": "book",
+    "title": "Experimental IR Meets Multilinguality, Multimodality, and Interaction - 12th International Conference of the CLEF Association, CLEF 2021, Virtual Event, September 21-24, 2021, Proceedings",
+    "container-title": "CLEF",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-030-85251-1",
+    "URL": "https://doi.org/10.1007/978-3-030-85251-1",
+    "volume": "12880",
+    "page": "",
+    "publisher": "Springer",
+    "_source_key": "conf/clef/2021"
+  },
+  {
+    "id": "dblp_2021_2ab9727e",
+    "type": "article-journal",
+    "title": "Diagnostics-Guided Explanation Generation",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://arxiv.org/abs/2109.03756",
+    "volume": "abs/2109.03756",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2109-03756"
+  },
+  {
+    "id": "dblp_2020_05bb70f5",
+    "type": "paper-conference",
+    "title": "Unsupervised Semantic Hashing with Pairwise Reconstruction",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Alstrup",
+        "given": "Stephen"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1145/3397271.3401220",
+    "URL": "https://doi.org/10.1145/3397271.3401220",
+    "volume": "abs/2007.00380",
+    "page": "2009-2012",
+    "publisher": "",
+    "_source_key": "conf/sigir/Hansen0SAL20a"
+  },
+  {
+    "id": "dblp_2020_7893a651",
+    "type": "paper-conference",
+    "title": "University of Copenhagen Participation in TREC Health Misinformation Track 2020",
+    "container-title": "TREC",
+    "author": [
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Wright",
+        "given": "Dustin Brandon"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://trec.nist.gov/pubs/trec29/papers/KU.HM.pdf",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/trec/LimaWAM20"
+  },
+  {
+    "id": "dblp_2020_fdf940aa",
+    "type": "article-journal",
+    "title": "Report on CLEF 2020",
+    "container-title": "SIGIR Forum",
+    "author": [
+      {
+        "family": "Arampatzis",
+        "given": "Avi"
+      },
+      {
+        "family": "Cappellato",
+        "given": "Linda"
+      },
+      {
+        "family": "Eickhoff",
+        "given": "Carsten"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Joho",
+        "given": "Hideo"
+      },
+      {
+        "family": "Kanoulas",
+        "given": "Evangelos"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Névéol",
+        "given": "Aurélie"
+      },
+      {
+        "family": "Tsikrika",
+        "given": "Theodora"
+      },
+      {
+        "family": "Vrochidis",
+        "given": "Stefanos"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1145/3483382.3483396",
+    "URL": "https://doi.org/10.1145/3483382.3483396",
+    "volume": "54",
+    "page": "11:1-11:10",
+    "publisher": "",
+    "_source_key": "journals/sigir/ArampatzisCEFJK20"
+  },
+  {
+    "id": "dblp_2020_1a8e2a1d",
+    "type": "paper-conference",
+    "title": "Overview of the TREC 2020 Health Misinformation Track",
+    "container-title": "TREC",
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "Charles L. A."
+      },
+      {
+        "family": "Rizvi",
+        "given": "Saira"
+      },
+      {
+        "family": "Smucker",
+        "given": "Mark D."
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Zuccon",
+        "given": "Guido"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://trec.nist.gov/pubs/trec29/papers/OVERVIEW.HM.pdf",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/trec/ClarkeRSMZ20"
+  },
+  {
+    "id": "dblp_2020_d1dcbb78",
+    "type": "paper-conference",
+    "title": "Overview of the NTCIR-15 We Want Web with CENTRE (WWW-3) Task",
+    "container-title": "NTCIR",
+    "author": [
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Tao",
+        "given": "Sijie"
+      },
+      {
+        "family": "Zeng",
+        "given": "Zhaohao"
+      },
+      {
+        "family": "Zheng",
+        "given": "Yukun"
+      },
+      {
+        "family": "Mao",
+        "given": "Jiaxin"
+      },
+      {
+        "family": "Chu",
+        "given": "Zhumin"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiqun"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Dou",
+        "given": "Zhicheng"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Soboroff",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/01-NTCIR15-OV-WWW-SakaiT.pdf",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/ntcir/SakaiTZZMC0MD0S20"
+  },
+  {
+    "id": "dblp_2020_83164c74",
+    "type": "article-journal",
+    "title": "Multi-Head Self-Attention with Role-Guided Masks",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Dongsheng"
+      },
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://arxiv.org/abs/2012.12366",
+    "volume": "abs/2012.12366",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2012-12366"
+  },
+  {
+    "id": "dblp_2020_58628013",
+    "type": "paper-conference",
+    "title": "Improving Learning to Rank By Leveraging User Dynamics and Continuation Methods",
+    "container-title": "SEBD",
+    "author": [
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Lucchese",
+        "given": "Claudio"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Perego",
+        "given": "Raffaele"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://ceur-ws.org/Vol-2646/42-paper.pdf",
+    "volume": "",
+    "page": "210-217",
+    "publisher": "",
+    "_source_key": "conf/sebd/0001LM020"
+  },
+  {
+    "id": "dblp_2020_3c4d095d",
+    "type": "book",
+    "title": "ICTIR '20: The 2020 ACM SIGIR International Conference on the Theory of Information Retrieval, Virtual Event, Norway, September 14-17, 2020",
+    "container-title": "ICTIR",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1145/3409256",
+    "URL": "https://doi.org/10.1145/3409256",
+    "volume": "",
+    "page": "",
+    "publisher": "ACM",
+    "_source_key": "conf/ictir/2020"
+  },
+  {
+    "id": "dblp_2020_bbe364d8",
+    "type": "paper-conference",
+    "title": "How to Measure the Reproducibility of System-oriented IR Experiments",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Breuer",
+        "given": "Timo"
+      },
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Fuhr",
+        "given": "Norbert"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Sakai",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Schaer",
+        "given": "Philipp"
+      },
+      {
+        "family": "Soboroff",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1145/3397271.3401036",
+    "URL": "https://doi.org/10.1145/3397271.3401036",
+    "volume": "abs/2010.13447",
+    "page": "349-358",
+    "publisher": "",
+    "_source_key": "conf/sigir/Breuer0FMSSS20"
+  },
+  {
+    "id": "dblp_2020_7411aa95",
+    "type": "paper-conference",
+    "title": "Generating Fact Checking Explanations",
+    "container-title": "ACL",
+    "author": [
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2020.acl-main.656",
+    "URL": "https://doi.org/10.18653/v1/2020.acl-main.656",
+    "volume": "abs/2004.05773",
+    "page": "7352-7364",
+    "publisher": "",
+    "_source_key": "conf/acl/AtanasovaSLA20"
+  },
+  {
+    "id": "dblp_2020_c7a742dd",
+    "type": "paper-conference",
+    "title": "Factuality Checking in News Headlines with Eye Tracking",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Larsen",
+        "given": "Birger"
+      },
+      {
+        "family": "Alstrup",
+        "given": "Stephen"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1145/3397271.3401221",
+    "URL": "https://doi.org/10.1145/3397271.3401221",
+    "volume": "abs/2006.09736",
+    "page": "2013-2016",
+    "publisher": "",
+    "_source_key": "conf/sigir/0004HSLAL20"
+  },
+  {
+    "id": "dblp_2020_73e4b90c",
+    "type": "paper-conference",
+    "title": "Fact Check-Worthiness Detection with Contrastive Ranking",
+    "container-title": "CLEF",
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-030-58219-7_11",
+    "URL": "https://doi.org/10.1007/978-3-030-58219-7_11",
+    "volume": "",
+    "page": "124-130",
+    "publisher": "",
+    "_source_key": "conf/clef/Hansen0SL19a"
+  },
+  {
+    "id": "dblp_2020_ef3bc553",
+    "type": "book",
+    "title": "Experimental IR Meets Multilinguality, Multimodality, and Interaction - 11th International Conference of the CLEF Association, CLEF 2020, Thessaloniki, Greece, September 22-25, 2020, Proceedings",
+    "container-title": "CLEF",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-030-58219-7",
+    "URL": "https://doi.org/10.1007/978-3-030-58219-7",
+    "volume": "12260",
+    "page": "",
+    "publisher": "Springer",
+    "_source_key": "conf/clef/2020"
+  },
+  {
+    "id": "dblp_2020_05f15d02",
+    "type": "paper-conference",
+    "title": "Encoding word order in complex embeddings",
+    "container-title": "ICLR",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Benyou"
+      },
+      {
+        "family": "Zhao",
+        "given": "Donghao"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Li",
+        "given": "Qiuchi"
+      },
+      {
+        "family": "Zhang",
+        "given": "Peng"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://openreview.net/forum?id=Hke-WTVtwr",
+    "volume": "",
+    "page": "",
+    "publisher": "",
+    "_source_key": "conf/iclr/WangZLLZS20"
+  },
+  {
+    "id": "dblp_2020_2e701679",
+    "type": "article-journal",
+    "title": "Denmark's Participation in the Search Engine TREC COVID-19 Challenge: Lessons Learned about Searching for Precise Biomedical Scientific Information on COVID-19",
+    "container-title": "CoRR",
+    "author": [
+      {
+        "family": "Lima",
+        "given": "Lucas Chaves"
+      },
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Wang",
+        "given": "Dongsheng"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Larsen",
+        "given": "Birger"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "",
+    "URL": "https://arxiv.org/abs/2011.12684",
+    "volume": "abs/2011.12684",
+    "page": "",
+    "publisher": "",
+    "_source_key": "journals/corr/abs-2011-12684"
+  },
+  {
+    "id": "dblp_2020_1030eb34",
+    "type": "paper-conference",
+    "title": "Content-aware Neural Hashing for Cold-start Recommendation",
+    "container-title": "SIGIR",
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Casper"
+      },
+      {
+        "family": "Hansen",
+        "given": "Christian"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Alstrup",
+        "given": "Stephen"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1145/3397271.3401060",
+    "URL": "https://doi.org/10.1145/3397271.3401060",
+    "volume": "abs/2006.00617",
+    "page": "971-980",
+    "publisher": "",
+    "_source_key": "conf/sigir/Hansen0SAL20"
+  },
+  {
+    "id": "dblp_2020_1b794ba8",
+    "type": "article-journal",
+    "title": "Boosting learning to rank with user dynamics and continuation methods",
+    "container-title": "Inf. Retr. J.",
+    "author": [
+      {
+        "family": "Ferro",
+        "given": "Nicola"
+      },
+      {
+        "family": "Lucchese",
+        "given": "Claudio"
+      },
+      {
+        "family": "Maistro",
+        "given": "Maria"
+      },
+      {
+        "family": "Perego",
+        "given": "Raffaele"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1007/s10791-019-09366-9",
+    "URL": "https://doi.org/10.1007/s10791-019-09366-9",
+    "volume": "23",
+    "page": "528-554",
+    "publisher": "",
+    "_source_key": "journals/ir/FerroLMP20"
+  },
+  {
+    "id": "dblp_2020_730a1710",
+    "type": "paper-conference",
+    "title": "A Diagnostic Study of Explainability Techniques for Text Classification",
+    "container-title": "EMNLP",
+    "author": [
+      {
+        "family": "Atanasova",
+        "given": "Pepa"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Jakob Grue"
+      },
+      {
+        "family": "Lioma",
+        "given": "Christina"
+      },
+      {
+        "family": "Augenstein",
+        "given": "Isabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.18653/v1/2020.emnlp-main.263",
+    "URL": "https://doi.org/10.18653/v1/2020.emnlp-main.263",
+    "volume": "abs/2009.13295",
+    "page": "3256-3274",
+    "publisher": "",
+    "_source_key": "conf/emnlp/AtanasovaSLA20"
+  }
+]

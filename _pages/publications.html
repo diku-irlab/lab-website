@@ -11,7 +11,7 @@ permalink: /publications/
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
-    {% assign publications = site.data.publications | sort: 'issued.date-parts' | reverse %}
+    {% assign publications = site.data.publications_all %}
     {% for publi in publications %}
         <div class="panel-heading">
             <a data-toggle="collapse" data-parent="#accordion"
@@ -32,15 +32,18 @@ permalink: /publications/
             <b>{{ publi.container-title }}</b>
 
             <!-- issued date -->
-            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+            {% assign year = publi.issued.date-parts.first.first %}
+            ({{ year }}),
 
+            {% assign doi_url = '' %}
             <!-- DOI -->
             {% if publi.DOI %}
-            <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+            {% assign doi_url = 'https://doi.org/' | append: publi.DOI %}
+            <a href="{{ doi_url }}">{{ doi_url }}</a>
             {% endif %}
 
             <!-- URL -->
-            {% if publi.URL %}
+            {% if publi.URL and publi.URL != doi_url %}
                 <a href="{{publi.URL}}">{{publi.URL}}</a>
             {% endif %}
             </a>
