@@ -10,7 +10,7 @@ social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
     google-scholar: https://scholar.google.com/citations?user=xOpDJxcAAAAJ&hl=en
-    website:
+    website: https://shivamadarsh.com/
     # github: https://github.com/
 education:
  - Education
