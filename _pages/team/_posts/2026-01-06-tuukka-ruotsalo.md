@@ -2,7 +2,8 @@
 layout: member
 category: staff
 title: Tuukka Ruotsalo
-image: researcher.png
+image: Tuukka_Ruotsalo_1100x600.jpg
+image_position: 68% 20%
 role:  Associate Professor, Machine Learning
 research_interests: " "
 permalink: 'team/tuukka-ruotsalo'

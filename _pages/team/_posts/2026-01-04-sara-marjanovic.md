@@ -4,6 +4,7 @@ category: student
 title: Sara Marjanovic
 image: sara.jpg
 role: PhD Student
+interned_at: MILA and NVIDIA
 research_interests: "NLP, RAG, Reasoning, Uncertainty, Interpretability, Bias"
 permalink: 'team/sara-marjanovic'
 social:

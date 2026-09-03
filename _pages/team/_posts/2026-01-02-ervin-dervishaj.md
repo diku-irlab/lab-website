@@ -4,6 +4,7 @@ category: student
 title: Ervin Dervishaj
 image: dervishaj.jpg
 role: PhD Student
+interned_at: Amazon
 research_interests: "Recommender Systems, Representation Learning"
 permalink: 'team/ervin-dervishaj'
 social:

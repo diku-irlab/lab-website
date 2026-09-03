@@ -18,7 +18,7 @@ permalink: /team/
             <div class="col-md-4 col-sm-3" style="min-width: 210px;">
                 <img src="{{ '/images/team/' | append: member.image | relative_url }}"
                     class="card-img img-responsive img-thumbnail"
-                    style="width: 200px; height: 200px; object-fit: cover; object-position: center; display: block; margin-right: 12px;"/>
+                    style="width: 200px; height: 200px; object-fit: cover; object-position: {% if member.image_position %}{{ member.image_position }}{% else %}center{% endif %}; display: block; margin-right: 12px;"/>
             </div>
 
             <div class="col-md-8 col-sm-9" style="min-width: 0;">
@@ -64,9 +64,12 @@ permalink: /team/
             <div class="col-md-8 col-sm-9" style="min-width: 0;">
                 <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
-                <p class="card-text" style="text-align: left;">{{ member.role }}</p>
+                <p class="card-text" style="text-align: left; margin-bottom: 2px;">{{ member.role }}</p>
+                {% if member.interned_at and member.interned_at != '' %}
+                <p class="card-text" style="text-align: left; margin-top: 0; margin-bottom: 2px;"><small>Interned at {{ member.interned_at }}</small></p>
+                {% endif %}
                 {% if member.research_interests and member.research_interests != '' %}
-                <p class="card-text" style="margin-top: 6px; margin-bottom: 8px; text-align: left;"><small><strong style="white-space: nowrap;">Research interests:</strong> {{ member.research_interests }}</small></p>
+                <p class="card-text" style="margin-top: 0; margin-bottom: 8px; text-align: left;"><small><strong style="white-space: nowrap;">Research interests:</strong> {{ member.research_interests }}</small></p>
                 {% endif %}
                 <ul class="list-inline list-unstyled" style="margin-top: 8px; margin-bottom: 0;">
                     {% assign gs_link = member.social['google-scholar'] | strip %}

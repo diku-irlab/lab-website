@@ -44,6 +44,23 @@ figcaption {
   margin-bottom: 20px;
 }
 
+.team-member-card .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.team-member-card .card-title {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.team-member-card .card-text {
+  margin-top: 0 !important;
+  margin-bottom: 2px !important;
+  line-height: 1.25;
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;

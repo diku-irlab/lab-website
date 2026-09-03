@@ -155,7 +155,7 @@
     "id": "dblp_2026_96c50461",
     "type": "article-journal",
     "title": "How Context Shapes Truth: Geometric Transformations of Statement-level Truth Representations in LLMs",
-    "container-title": "CoRR",
+    "container-title": "ACL",
     "author": [
       {
         "family": "Adarsh",
@@ -177,8 +177,8 @@
         ]
       ]
     },
-    "DOI": "10.48550/arXiv.2601.06599",
-    "URL": "https://doi.org/10.48550/arXiv.2601.06599",
+    "DOI": "10.18653/v1/2026.acl-long.1695",
+    "URL": "https://doi.org/10.18653/v1/2026.acl-long.1695",
     "volume": "abs/2601.06599",
     "page": "",
     "publisher": "",

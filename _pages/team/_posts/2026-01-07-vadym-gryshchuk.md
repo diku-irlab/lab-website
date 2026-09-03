@@ -2,9 +2,9 @@
 layout: member
 category: student
 title: Vadym Gryshchuk
-image: researcher.png
+image: Vadym_photo.png
 role: PhD Student
-research_interests: " "
+research_interests: "Multimodal Learning, Brain-Computer Interfaces."
 permalink: 'team/vadym-gryshchuk'
 social:
     # twitter: https://twitter.com/

@@ -4,6 +4,7 @@ category: student
 title: Pietro Tropeano
 image: PietroTropeano.jpg
 role: PhD Student
+interned_at: University of Sheffield
 research_interests: "Language Models, Pruning, LLMs efficiency"
 permalink: 'team/pietro-tropeano'
 social:

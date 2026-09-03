@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Ingemar Cox
-image: researcher.png
+image: ingemar.jpg
 role: Professor, Machine Learning
 research_interests: " "
 permalink: 'team/ingemar-cox'

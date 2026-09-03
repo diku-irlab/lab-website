@@ -4,6 +4,7 @@ category: student
 title: Thomas Vecchiato
 image: thomas.jpg
 role: PhD Student
+interned_at: Google
 research_interests: "Vector retrieval, Approximate nearest neighbor search, Learning to rank, and Retrieval-augmented generation."
 permalink: 'team/thomas-vecchiato'
 social:
